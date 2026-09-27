@@ -1,0 +1,1107 @@
+date,address,type,break_strike,pipe_material,break_category,material_clean,is_legacy_material,year,month,month_name,doy,dow,is_weekend,freeze_season,season,zip
+2013-01-01,2nd and Woodscrest Dr.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2013,1,Jan,1,Tuesday,False,True,Winter,
+2013-01-02,1403 N Woodburn,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2013,1,Jan,2,Wednesday,False,True,Winter,
+2013-01-04,2407 S Spicewood Ln,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2013,1,Jan,4,Friday,False,True,Winter,
+2013-01-11,1306 N Maple,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2013,1,Jan,11,Friday,False,True,Winter,
+2013-01-11,1600 Maplecrest Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2013,1,Jan,11,Friday,False,True,Winter,
+2013-01-18,1001 S Curry Pike,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2013,1,Jan,18,Friday,False,True,Winter,
+2013-01-28,Marlin School Bothel Ln.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2013,1,Jan,28,Monday,False,True,Winter,
+2013-01-31,1003 W 9th St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2013,1,Jan,31,Thursday,False,True,Winter,
+2013-02-08,215 N Jonson Ave,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2013,2,Feb,39,Friday,False,True,Winter,
+2013-02-13,2353 W Church Ln,Main Break,Main Break,SDR-21 PR200,Water Main,PVC,False,2013,2,Feb,44,Wednesday,False,True,Winter,
+2013-02-18,2451 S Walnut St Pk,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2013,2,Feb,49,Monday,False,True,Winter,
+2013-03-04,3712 S Fenway Pl,Main Break,Main Break,SDR-21 PR200,Water Main,PVC,False,2013,3,Mar,63,Monday,False,True,Spring,
+2013-03-05,3912 S Baytree Ln,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2013,3,Mar,64,Tuesday,False,True,Spring,
+2013-03-27,1075 N Jordan,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2013,3,Mar,86,Wednesday,False,True,Spring,
+2013-03-28,106 N Hillsdale Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2013,3,Mar,87,Thursday,False,True,Spring,
+2013-04-07,2601 Rogers St,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2013,4,Apr,97,Sunday,True,False,Spring,
+2013-04-08,1408 W 12th,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2013,4,Apr,98,Monday,False,False,Spring,
+2013-04-12,2303 S Rogers,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2013,4,Apr,102,Friday,False,False,Spring,
+2013-04-15,2536 W Industrial Park Drive,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2013,4,Apr,105,Monday,False,False,Spring,
+2013-04-15,601 N Walnut,Main Break,Main Break,Cast Iron-lead joint,Water Main,Cast Iron,True,2013,4,Apr,105,Monday,False,False,Spring,
+2013-04-17,2108 S Rogers St,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2013,4,Apr,107,Wednesday,False,False,Spring,
+2013-04-26,4292 Mallard Ct,Main Break,Main Break,SDR-21 PR200,Water Main,PVC,False,2013,4,Apr,116,Friday,False,False,Spring,
+2013-05-02,4201 E Cambridge Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2013,5,May,122,Thursday,False,False,Spring,
+2013-05-06,550 S Adams,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2013,5,May,126,Monday,False,False,Spring,
+2013-05-09,3925 S BayTree Ln,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2013,5,May,129,Thursday,False,False,Spring,
+2013-05-23,S Rogers - Coolidge,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2013,5,May,143,Thursday,False,False,Spring,
+2013-05-26,4153 Hector,Main Break,Main Break,Cast Iron or Ductile,Water Main,Cast Iron,True,2013,5,May,146,Sunday,True,False,Spring,
+2013-05-31,2020 S Rogers,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2013,5,May,151,Friday,False,False,Spring,
+2013-06-21,3111 Venture Blvd,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2013,6,Jun,172,Friday,False,False,Summer,
+2013-06-25,318 S Washington,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2013,6,Jun,176,Tuesday,False,False,Summer,
+2013-07-05,2700 McCartney Ln,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2013,7,Jul,186,Friday,False,False,Summer,
+2013-07-09,401 N Sheffield Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2013,7,Jul,190,Tuesday,False,False,Summer,
+2013-07-11,2516 E Roundhill Lane,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2013,7,Jul,192,Thursday,False,False,Summer,
+2013-07-25,520 Cabot Ct,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2013,7,Jul,206,Thursday,False,False,Summer,
+2013-07-26,3807 S Bainbridge Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2013,7,Jul,207,Friday,False,False,Summer,
+2013-09-07,N Dunn & Old 37 - B+B Water Corp/ Meter Vault,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2013,9,Sep,250,Saturday,True,False,Fall,
+2013-09-09,2508 S Rogers St,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2013,9,Sep,252,Monday,False,False,Fall,
+2013-09-19,904 Larkspur,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2013,9,Sep,262,Thursday,False,False,Fall,
+2013-10-28,2122 E Woodstock Pl,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2013,10,Oct,301,Monday,False,False,Fall,
+2013-11-01,4153 E Hector Dr,Main Break,Main Break,Cast Iron or Ductile,Water Main,Cast Iron,True,2013,11,Nov,305,Friday,False,True,Fall,
+2013-11-22,4427 E Kinser,Main Break,Main Break,Cast Iron or Ductile,Water Main,Cast Iron,True,2013,11,Nov,326,Friday,False,True,Fall,
+2013-11-24,628 Woodscrest,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2013,11,Nov,328,Sunday,True,True,Fall,
+2013-11-30,3208 Kristen & Forrester,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2013,11,Nov,334,Saturday,True,True,Fall,
+2013-12-02,603 Coolidge,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2013,12,Dec,336,Monday,False,True,Winter,
+2013-12-10,South of 212 S Overhill Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2013,12,Dec,344,Tuesday,False,True,Winter,
+2013-12-15,Buick Cadellac & AutoMall Rd,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2013,12,Dec,349,Sunday,True,True,Winter,
+2013-12-17,4417 E Kinser Dr,Main Break,Main Break,Cast Iron or Ductile,Water Main,Cast Iron,True,2013,12,Dec,351,Tuesday,False,True,Winter,
+2013-12-27,110 E 12th St,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2013,12,Dec,361,Friday,False,True,Winter,
+2014-01-07,815 N Jordan,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,1,Jan,7,Tuesday,False,True,Winter,
+2014-01-10,5930 S Phyllis,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2014,1,Jan,10,Friday,False,True,Winter,
+2014-01-14,517 S Arbutus,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,1,Jan,14,Tuesday,False,True,Winter,
+2014-01-14,204 N Kible Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,1,Jan,14,Tuesday,False,True,Winter,
+2014-01-14,S Elm Leaf Dr & W Walnut Leaf Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,1,Jan,14,Tuesday,False,True,Winter,
+2014-01-14,S Elm Leaf Dr & W Walnut Leaf Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,1,Jan,14,Tuesday,False,True,Winter,
+2014-01-16,100 W Club House Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2014,1,Jan,16,Thursday,False,True,Winter,
+2014-01-17,608 N Kerry Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,1,Jan,17,Friday,False,True,Winter,
+2014-01-20,932 S Ballantine Rd,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,1,Jan,20,Monday,False,True,Winter,
+2014-01-20,532 Kerry Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,1,Jan,20,Monday,False,True,Winter,
+2014-01-24,715 S Fess,Main Break,Main Break,Cast Iron-lead joint,Water Main,Cast Iron,True,2014,1,Jan,24,Friday,False,True,Winter,
+2014-01-27,1455 S Stone Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,1,Jan,27,Monday,False,True,Winter,
+2014-01-29,524 S Village Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,1,Jan,29,Wednesday,False,True,Winter,
+2014-01-30,3919 S Cramer Cir,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2014,1,Jan,30,Thursday,False,True,Winter,
+2014-01-31,1613 S Cliffton Ave,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,1,Jan,31,Friday,False,True,Winter,
+2014-02-01,3501 N Dunn St / Griffy Plant,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2014,2,Feb,32,Saturday,True,True,Winter,
+2014-02-08,Dunn & Old St Rd 37,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2014,2,Feb,39,Saturday,True,True,Winter,
+2014-02-10,E 3rd & Faculty,Main Break,Main Break,Cast Iron-lead joint,Water Main,Cast Iron,True,2014,2,Feb,41,Monday,False,True,Winter,
+2014-02-11,1222 N Maple St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,2,Feb,42,Tuesday,False,True,Winter,
+2014-02-14,4510 S Orchad Ln,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2014,2,Feb,45,Friday,False,True,Winter,
+2014-02-15,101 N College,Main Break,Main Break,Cast Iron-lead joint,Water Main,Cast Iron,True,2014,2,Feb,46,Saturday,True,True,Winter,
+2014-02-22,1925 S Wilton,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,2,Feb,53,Saturday,True,True,Winter,
+2014-02-23,101 N Roosevelt,Main Break,Main Break,Transite,Water Main,Transite (AC),True,2014,2,Feb,54,Sunday,True,True,Winter,
+2014-03-11,W of Business 37,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,3,Mar,70,Tuesday,False,True,Spring,
+2014-04-05,2207 S Yost,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2014,4,Apr,95,Saturday,True,False,Spring,
+2014-04-19,3013 E Daniel St,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2014,4,Apr,109,Saturday,True,False,Spring,
+2014-04-29,3013 E Daniel St,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2014,4,Apr,119,Tuesday,False,False,Spring,
+2014-05-07,Park View / Windcrest,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,5,May,127,Wednesday,False,False,Spring,
+2014-05-14,Parking Lot NW of IU Football Stadium,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2014,5,May,134,Wednesday,False,False,Spring,
+2014-05-21,1719 E Winslow Rd,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,5,May,141,Wednesday,False,False,Spring,
+2014-06-17,847 W Baywood,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2014,6,Jun,168,Tuesday,False,False,Summer,
+2014-07-06,1100 S Weimer,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2014,7,Jul,187,Sunday,True,False,Summer,
+2014-07-15,3170 Covenanter,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2014,7,Jul,196,Tuesday,False,False,Summer,
+2014-07-18,3301 S Tulip,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2014,7,Jul,199,Friday,False,False,Summer,
+2014-07-24,1809 E Longwood Ct,Main Break,Main Break,SDR-21 PR200,Water Main,PVC,False,2014,7,Jul,205,Thursday,False,False,Summer,
+2014-07-25,1189 Buckingham East,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2014,7,Jul,206,Friday,False,False,Summer,
+2014-08-11,3839 W Woodmere Way,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2014,8,Aug,223,Monday,False,False,Summer,
+2014-08-17,2324 E Linden Hill Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2014,8,Aug,229,Sunday,True,False,Summer,
+2014-08-24,17th & Monroe,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2014,8,Aug,236,Sunday,True,False,Summer,
+2014-08-25,1210 W Arlington Rd,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,8,Aug,237,Monday,False,False,Summer,
+2014-08-25,1620 W Arlington Rd,Main Break,Main Break,Cast Iron MJ,Water Main,Cast Iron,True,2014,8,Aug,237,Monday,False,False,Summer,
+2014-08-25,Grant & Smith,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2014,8,Aug,237,Monday,False,False,Summer,
+2014-08-25,1614 W Arlington Rd,Main Break,Main Break,Cast Iron MJ,Water Main,Cast Iron,True,2014,8,Aug,237,Monday,False,False,Summer,
+2014-09-08,635 S Rogers,Main Break,Main Break,Cast Iron-lead joint,Water Main,Cast Iron,True,2014,9,Sep,251,Monday,False,False,Fall,
+2014-09-08,2820 S Brookside Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,9,Sep,251,Monday,False,False,Fall,
+2014-09-09,3772 E Cobble Creek Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2014,9,Sep,252,Tuesday,False,False,Fall,
+2014-09-22,1620 W Arlington Rd,Main Break,Main Break,Cast Iron MJ,Water Main,Cast Iron,True,2014,9,Sep,265,Monday,False,False,Fall,
+2014-10-02,S Rockport Rd & Graham,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2014,10,Oct,275,Thursday,False,False,Fall,
+2014-10-24,2614 E 3rd St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,10,Oct,297,Friday,False,False,Fall,
+2014-11-09,Intersection of High & E Marilyn Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,11,Nov,313,Sunday,True,True,Fall,
+2014-11-13,1416 S Sare Rd,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2014,11,Nov,317,Thursday,False,True,Fall,
+2014-11-19,4403 N Old State Rd 37,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,11,Nov,323,Wednesday,False,True,Fall,
+2014-11-24,4222 Hector Dr,Main Break,Main Break,Cast Iron or Ductile,Water Main,Cast Iron,True,2014,11,Nov,328,Monday,False,True,Fall,
+2014-12-04,767 N Forrest,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,12,Dec,338,Thursday,False,True,Winter,
+2014-12-06,4406 E Deckard,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,12,Dec,340,Saturday,True,True,Winter,
+2014-12-09,N Old State Rd 37 & Dunn St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,12,Dec,343,Tuesday,False,True,Winter,
+2014-12-10,4153 E Hector Dr,Main Break,Main Break,Cast Iron or Ductile,Water Main,Cast Iron,True,2014,12,Dec,344,Wednesday,False,True,Winter,
+2014-12-28,2003 S Sussex Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,12,Dec,362,Sunday,True,True,Winter,
+2014-12-28,2200 N Dunn St,Main Break,Main Break,Galvanized,Water Main,Galvanized,True,2014,12,Dec,362,Sunday,True,True,Winter,
+2014-12-30,Fess Ave Between E 3rd & Atwater,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,12,Dec,364,Tuesday,False,True,Winter,
+2014-12-31,1030 S Mitchell,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2014,12,Dec,365,Wednesday,False,True,Winter,
+2015-01-05,"N Bottom Rd, 3200' S of Blucher Poole",Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,1,Jan,5,Monday,False,True,Winter,
+2015-01-10,1800 E 2nd,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,1,Jan,10,Saturday,True,True,Winter,
+2015-01-15,5230 S Old 37,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,1,Jan,15,Thursday,False,True,Winter,
+2015-01-15,S Sheridan Dr & S Jordan Ave,Main Break,Main Break,Cast Iron-lead joint,Water Main,Cast Iron,True,2015,1,Jan,15,Thursday,False,True,Winter,
+2015-01-18,Adams and Vernal Pike,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,1,Jan,18,Sunday,True,True,Winter,
+2015-01-19,2100 Block E 4th St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,1,Jan,19,Monday,False,True,Winter,
+2015-01-23,1007 E Sheridan Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,1,Jan,23,Friday,False,True,Winter,
+2015-01-23,"E Rogers Rd, 620' west of Windingbrook Cir",Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,1,Jan,23,Friday,False,True,Winter,
+2015-02-03,17th & College South East Corner,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,2,Feb,34,Tuesday,False,True,Winter,
+2015-02-04,815 S Grant,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,2,Feb,35,Wednesday,False,True,Winter,
+2015-02-21,1210 E 3rd,Main Break,Main Break,Cast Iron-lead joint,Water Main,Cast Iron,True,2015,2,Feb,52,Saturday,True,True,Winter,
+2015-02-22,2230 S Brown Ave,Main Break,Main Break,SDR-21 PR200,Water Main,PVC,False,2015,2,Feb,53,Sunday,True,True,Winter,
+2015-02-23,1442 N Jordan,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,2,Feb,54,Monday,False,True,Winter,
+2015-03-01,2622 N Cascade Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,3,Mar,60,Sunday,True,True,Spring,
+2015-03-06,2220 W Vernal Pike,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,3,Mar,65,Friday,False,True,Spring,
+2015-03-21,1300 S Palmer,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,3,Mar,80,Saturday,True,True,Spring,
+2015-03-26,610 Ryan Rd,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,3,Mar,85,Thursday,False,True,Spring,
+2015-03-28,2220 W Vernal Pike,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,3,Mar,87,Saturday,True,True,Spring,
+2015-04-11,431 W Walls,Main Break,Main Break,Galvanized,Water Main,Galvanized,True,2015,4,Apr,101,Saturday,True,False,Spring,
+2015-04-28,5001 N Business 37,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,4,Apr,118,Tuesday,False,False,Spring,
+2015-05-10,2201 N Fritz Rd,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,5,May,130,Sunday,True,False,Spring,
+2015-05-28,Bradshire - Uppington,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,5,May,148,Thursday,False,False,Spring,
+2015-05-28,160 N Park Ridge,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,5,May,148,Thursday,False,False,Spring,
+2015-05-31,2600 Block of Windermere Woods Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,5,May,151,Sunday,True,False,Spring,
+2015-06-09,1008 N Lindbergh,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,6,Jun,160,Tuesday,False,False,Summer,
+2015-06-10,2453 Burbury Ln,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,6,Jun,161,Wednesday,False,False,Summer,
+2015-06-11,620 W 8th St,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,6,Jun,162,Thursday,False,False,Summer,
+2015-06-11,340 S Walnut,Main Break,Main Break,Unknown,Water Main,,,2015,6,Jun,162,Thursday,False,False,Summer,
+2015-06-15,1008 N Lindbergh,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,6,Jun,166,Monday,False,False,Summer,
+2015-06-16,301 Clover Ln,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,6,Jun,167,Tuesday,False,False,Summer,
+2015-06-29,N Stonelake Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,6,Jun,180,Monday,False,False,Summer,
+2015-06-29,901 E 13th,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,6,Jun,180,Monday,False,False,Summer,
+2015-07-06,1719 E Greenbriar,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,7,Jul,187,Monday,False,False,Summer,
+2015-07-07,2724 E Elderberry Ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,7,Jul,188,Tuesday,False,False,Summer,
+2015-07-30,830 E Miller Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,7,Jul,211,Thursday,False,False,Summer,
+2015-07-31,600 N Jordan,Main Break,Main Break,Cast Iron-lead joint,Water Main,Cast Iron,True,2015,7,Jul,212,Friday,False,False,Summer,
+2015-08-04,1700 Block of E 10th St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,8,Aug,216,Tuesday,False,False,Summer,
+2015-08-04,612 W Skyline Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,8,Aug,216,Tuesday,False,False,Summer,
+2015-08-05,2611 N Kinser Pike,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,8,Aug,217,Wednesday,False,False,Summer,
+2015-08-05,3514 E Morningside Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,8,Aug,217,Wednesday,False,False,Summer,
+2015-08-05,940 S Hawthorne,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,8,Aug,217,Wednesday,False,False,Summer,
+2015-08-05,421 E 9th,Main Break,Main Break,Cast Iron-lead joint,Water Main,Cast Iron,True,2015,8,Aug,217,Wednesday,False,False,Summer,
+2015-08-06,6th and Adams,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,8,Aug,218,Thursday,False,False,Summer,
+2015-08-07,515 Woodcrest,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,8,Aug,219,Friday,False,False,Summer,
+2015-08-11,3417 Stoneycrest,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,8,Aug,223,Tuesday,False,False,Summer,
+2015-08-12,Meadow Ln - Meadow Ct,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,8,Aug,224,Wednesday,False,False,Summer,
+2015-08-13,Red Rock & Cedar Chase,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,8,Aug,225,Thursday,False,False,Summer,
+2015-08-13,Meadow Ln - Meadow Ct,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,8,Aug,225,Thursday,False,False,Summer,
+2015-09-02,230 W Church Ln,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,9,Sep,245,Wednesday,False,False,Fall,
+2015-09-07,3644 Park Ln,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,9,Sep,250,Monday,False,False,Fall,
+2015-09-10,4297 N Old 37,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,9,Sep,253,Thursday,False,False,Fall,
+2015-09-16,111 Southern Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,9,Sep,259,Wednesday,False,False,Fall,
+2015-09-16,Hillside & Clifton & Nancy,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,9,Sep,259,Wednesday,False,False,Fall,
+2015-09-19,1900 E Hillside in back yard,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,9,Sep,262,Saturday,True,False,Fall,
+2015-09-22,2308 Woodbluff Ct,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,9,Sep,265,Tuesday,False,False,Fall,
+2015-09-23,3699 S Sowder Sq,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,9,Sep,266,Wednesday,False,False,Fall,
+2015-09-28,2812 S Yonkers,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,9,Sep,271,Monday,False,False,Fall,
+2015-09-28,Ramble Rd - Rusgan,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,9,Sep,271,Monday,False,False,Fall,
+2015-09-30,2348 E Linden Hill Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,9,Sep,273,Wednesday,False,False,Fall,
+2015-09-30,501 Sunrise,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,9,Sep,273,Wednesday,False,False,Fall,
+2015-10-07,3425 Stoney Crest,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,10,Oct,280,Wednesday,False,False,Fall,
+2015-10-16,"1500, 1999 N Packinghouse Rd",Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,10,Oct,289,Friday,False,False,Fall,
+2015-10-17,W Wayside Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,10,Oct,290,Saturday,True,False,Fall,
+2015-10-19,1625 S Greenfield Ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,10,Oct,292,Monday,False,False,Fall,
+2015-10-20,1400 S Palmer,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,10,Oct,293,Tuesday,False,False,Fall,
+2015-10-20,1222 College Mall Rd,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,10,Oct,293,Tuesday,False,False,Fall,
+2015-10-21,1506 S Nancy St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,10,Oct,294,Wednesday,False,False,Fall,
+2015-10-21,1203 Prairie,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,10,Oct,294,Wednesday,False,False,Fall,
+2015-10-28,1705 N Kinser,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,10,Oct,301,Wednesday,False,False,Fall,
+2015-10-31,2480 N Stonelake Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,10,Oct,304,Saturday,True,False,Fall,
+2015-11-01,2010 W Ross Ln,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,11,Nov,305,Sunday,True,True,Fall,
+2015-11-03,1506 S Nancy St,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,11,Nov,307,Tuesday,False,True,Fall,
+2015-11-04,105 W Hoosier,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,11,Nov,308,Wednesday,False,True,Fall,
+2015-11-05,2845 S Oakdale Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,11,Nov,309,Thursday,False,True,Fall,
+2015-11-08,1318 S Henderson,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,11,Nov,312,Sunday,True,True,Fall,
+2015-11-16,Spicewood Ct - Spicewood Ln,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,11,Nov,320,Monday,False,True,Fall,
+2015-11-16,4297 N Old 37,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,11,Nov,320,Monday,False,True,Fall,
+2015-11-17,3222 Bradshire Ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,11,Nov,321,Tuesday,False,True,Fall,
+2015-11-20,3522 Fairington,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,11,Nov,324,Friday,False,True,Fall,
+2015-11-23,6th & Washington,Main Break,Main Break,Cast Iron-lead joint,Water Main,Cast Iron,True,2015,11,Nov,327,Monday,False,True,Fall,
+2015-11-25,3904 S Sage Ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2015,11,Nov,329,Wednesday,False,True,Fall,
+2015-11-26,840 S Cory Ln,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,11,Nov,330,Thursday,False,True,Fall,
+2015-11-30,Park Ridge Rd - Wiltshier,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,11,Nov,334,Monday,False,True,Fall,
+2015-12-03,Reba Ct - Reba Ave,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,12,Dec,337,Thursday,False,True,Winter,
+2015-12-15,Elliston - Fenway,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,12,Dec,349,Tuesday,False,True,Winter,
+2015-12-23,209 N Sheffield,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,12,Dec,357,Wednesday,False,True,Winter,
+2015-12-24,1900 S Walnut St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,12,Dec,358,Thursday,False,True,Winter,
+2015-12-28,400 S Lincoln St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2015,12,Dec,362,Monday,False,True,Winter,
+2016-01-06,Kirby & Gifford,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,1,Jan,6,Wednesday,False,True,Winter,
+2016-01-07,1610 Maple Crest,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,1,Jan,7,Thursday,False,True,Winter,
+2016-01-07,1926 W Arlington Rd,Main Break,Main Break,Cast Iron MJ,Water Main,Cast Iron,True,2016,1,Jan,7,Thursday,False,True,Winter,
+2016-01-09,Church Ln & White Pine Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,1,Jan,9,Saturday,True,True,Winter,
+2016-01-11,16th & Monroe,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,1,Jan,11,Monday,False,True,Winter,
+2016-01-11,1303 Hancock,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,1,Jan,11,Monday,False,True,Winter,
+2016-01-12,1219 Allendale Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,1,Jan,12,Tuesday,False,True,Winter,
+2016-01-19,557 Park Ridge Rd,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,1,Jan,19,Tuesday,False,True,Winter,
+2016-01-22,1205 Fairwood,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,1,Jan,22,Friday,False,True,Winter,
+2016-01-25,1480 Southdowns,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,1,Jan,25,Monday,False,True,Winter,
+2016-02-08,901 N Smith Rd,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2016,2,Feb,39,Monday,False,True,Winter,
+2016-02-12,4227 E Penn Ct,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,2,Feb,43,Friday,False,True,Winter,
+2016-02-16,3309 E Gosport Ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2016,2,Feb,47,Tuesday,False,True,Winter,
+2016-02-18,114 E 1st (by 604 SW Ash),Main Break,Main Break,Cast Iron-lead joint,Water Main,Cast Iron,True,2016,2,Feb,49,Thursday,False,True,Winter,
+2016-03-01,301 N Gates Dr on W Jonathan Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2016,3,Mar,61,Tuesday,False,True,Spring,
+2016-04-30,1004 S Gentry Ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2016,4,Apr,121,Saturday,True,False,Spring,
+2016-05-11,1007 E Sherbrooke Drive,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2016,5,May,132,Wednesday,False,False,Spring,
+2016-05-27,8th & Woodlawn,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2016,5,May,148,Friday,False,False,Spring,
+2016-06-01,2001 E Ashwood Ln,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2016,6,Jun,153,Wednesday,False,False,Summer,
+2016-06-06,3980 S Sare Rd,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2016,6,Jun,158,Monday,False,False,Summer,
+2016-06-17,S Sare Rd & Winston,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2016,6,Jun,169,Friday,False,False,Summer,
+2016-06-20,5005 N State Rd 37 Business,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,6,Jun,172,Monday,False,False,Summer,
+2016-06-24,3434 Ashwood Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2016,6,Jun,176,Friday,False,False,Summer,
+2016-07-20,228 W Church,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,7,Jul,202,Wednesday,False,False,Summer,
+2016-07-28,2327 Windingbrook Ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2016,7,Jul,210,Thursday,False,False,Summer,
+2016-07-29,3rd & Landmark,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2016,7,Jul,211,Friday,False,False,Summer,
+2016-09-02,211 Glenndora,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,9,Sep,246,Friday,False,False,Fall,
+2016-09-09,W 17th & Jackson,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,9,Sep,253,Friday,False,False,Fall,
+2016-09-24,1314 E Fairwood,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,9,Sep,268,Saturday,True,False,Fall,
+2016-09-26,1613 Clifton Ave,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,9,Sep,270,Monday,False,False,Fall,
+2016-10-05,3331 N Kinser Pike,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,10,Oct,279,Wednesday,False,False,Fall,
+2016-10-27,Parkridge & Morningside,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,10,Oct,301,Thursday,False,False,Fall,
+2016-10-28,3921 Sims Ln,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,10,Oct,302,Friday,False,False,Fall,
+2016-11-11,3801 E 3rd,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,11,Nov,316,Friday,False,True,Fall,
+2016-11-12,1600 S Rogers,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2016,11,Nov,317,Saturday,True,True,Fall,
+2016-11-16,3442 E Longview,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,11,Nov,321,Wednesday,False,True,Fall,
+2016-11-19,W. Cloverter and N. Cascade Dr.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,11,Nov,324,Saturday,True,True,Fall,
+2016-11-22,37 and Ellis Rd.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,11,Nov,327,Tuesday,False,True,Fall,
+2016-11-23,4580 E 10th St,Main Break,Main Break,Cast Iron or Ductile,Water Main,Cast Iron,True,2016,11,Nov,328,Wednesday,False,True,Fall,
+2016-12-01,17th & Maple Hydrant,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,12,Dec,336,Thursday,False,True,Winter,
+2016-12-01,730 W Wylie St,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2016,12,Dec,336,Thursday,False,True,Winter,
+2016-12-01,5005 N State Rd 37 Business,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,12,Dec,336,Thursday,False,True,Winter,
+2016-12-08,7th and Clark,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2016,12,Dec,343,Thursday,False,True,Winter,
+2016-12-08,106 S Overhill,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,12,Dec,343,Thursday,False,True,Winter,
+2016-12-14,15th & Illinios,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,12,Dec,349,Wednesday,False,True,Winter,
+2016-12-15,504 Audobon & Scenic,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,12,Dec,350,Thursday,False,True,Winter,
+2016-12-19,723 E Pepperidge Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2016,12,Dec,354,Monday,False,True,Winter,
+2016-12-20,2nd and Rose Ave,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,12,Dec,355,Tuesday,False,True,Winter,
+2016-12-21,2697 Rock Creek Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,12,Dec,356,Wednesday,False,True,Winter,
+2016-12-21,2211 S High St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2016,12,Dec,356,Wednesday,False,True,Winter,
+2016-12-25,3904 S Sage Ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2016,12,Dec,360,Sunday,True,True,Winter,
+2016-12-29,2430 Arlington Rd,Main Break,Main Break,Cast Iron MJ,Water Main,Cast Iron,True,2016,12,Dec,364,Thursday,False,True,Winter,
+2017-01-01,743 E Pepperridge Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2017,1,Jan,1,Sunday,True,True,Winter,
+2017-01-06,2128 E Meadowbluff Ct,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,1,Jan,6,Friday,False,True,Winter,
+2017-01-13,743 E Pepperridge Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2017,1,Jan,13,Friday,False,True,Winter,
+2017-01-24,2512 E 8th,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,1,Jan,24,Tuesday,False,True,Winter,
+2017-01-24,2124 E Woodstock Pl,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,1,Jan,24,Tuesday,False,True,Winter,
+2017-02-08,2530 E 8th,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,2,Feb,39,Wednesday,False,True,Winter,
+2017-02-09,809 S Henderson,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,2,Feb,40,Thursday,False,True,Winter,
+2017-02-23,3122 S Ryan Ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2017,2,Feb,54,Thursday,False,True,Winter,
+2017-04-13,W 17th St & N Crescent,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,4,Apr,103,Thursday,False,False,Spring,
+2017-04-29,310 W Church Ln,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,4,Apr,119,Saturday,True,False,Spring,
+2017-05-01,691 Fairway Ln,Main Break,Main Break,Copper Type K,Water Main,Copper,False,2017,5,May,121,Monday,False,False,Spring,
+2017-06-30,414 N Jonson Ave,Main Break,Main Break,Unknown,Water Main,,,2017,6,Jun,181,Friday,False,False,Summer,
+2017-07-10,E Rock Creek Dr & S Childs Ct,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,7,Jul,191,Monday,False,False,Summer,
+2017-07-12,4153 Hector Dr,Main Break,Main Break,Cast Iron or Ductile,Water Main,Cast Iron,True,2017,7,Jul,193,Wednesday,False,False,Summer,
+2017-07-14,2300 Ashwood Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2017,7,Jul,195,Friday,False,False,Summer,
+2017-07-18,1002 E Heather Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2017,7,Jul,199,Tuesday,False,False,Summer,
+2017-07-22,3220 E 3rd,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,7,Jul,203,Saturday,True,False,Summer,
+2017-07-24,103 E Southern Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2017,7,Jul,205,Monday,False,False,Summer,
+2017-07-25,3819 S Linda's Way,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,7,Jul,206,Tuesday,False,False,Summer,
+2017-07-28,N State Road 37 Business & E Whisnand Rd,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2017,7,Jul,209,Friday,False,False,Summer,
+2017-08-14,503 S Fieldstone Blvd,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2017,8,Aug,226,Monday,False,False,Summer,
+2017-08-18,4200 E Morningside Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,8,Aug,230,Friday,False,False,Summer,
+2017-08-20,3317 W Jordan Ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2017,8,Aug,232,Sunday,True,False,Summer,
+2017-08-26,3rd Clarizz,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,8,Aug,238,Saturday,True,False,Summer,
+2017-09-05,3703 Grasstree Ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2017,9,Sep,248,Tuesday,False,False,Fall,
+2017-09-06,4500 S Orchard Ln,Main Break,Main Break,SDR-21 PR200,Water Main,PVC,False,2017,9,Sep,249,Wednesday,False,False,Fall,
+2017-09-06,1107 Berkshire ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2017,9,Sep,249,Wednesday,False,False,Fall,
+2017-09-08,1400 S Palmer St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,9,Sep,251,Friday,False,False,Fall,
+2017-09-12,Walnut & Allen,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2017,9,Sep,255,Tuesday,False,False,Fall,
+2017-09-18,5001 N St Rd 37 Business,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,9,Sep,261,Monday,False,False,Fall,
+2017-10-04,4272 Broadway,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,10,Oct,277,Wednesday,False,False,Fall,
+2017-10-06,2138 E Meadow Bluff Ct,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,10,Oct,279,Friday,False,False,Fall,
+2017-10-19,3142 Yonkers,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,10,Oct,292,Thursday,False,False,Fall,
+2017-10-20,8th Street & N Fairview,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2017,10,Oct,293,Friday,False,False,Fall,
+2017-10-30,4101 E Saratoga Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,10,Oct,303,Monday,False,False,Fall,
+2017-10-31,1202 E Fairwood Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,10,Oct,304,Tuesday,False,False,Fall,
+2017-11-01,315 N Jonson Ave,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,11,Nov,305,Wednesday,False,True,Fall,
+2017-11-01,1982 E Cheyanne Ln,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,11,Nov,305,Wednesday,False,True,Fall,
+2017-11-02,320 Pleasant Ridge,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,11,Nov,306,Thursday,False,True,Fall,
+2017-11-04,2450 N Browncliff Ln,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,11,Nov,308,Saturday,True,True,Fall,
+2017-11-07,2901 David St,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2017,11,Nov,311,Tuesday,False,True,Fall,
+2017-11-11,118 Westplex Ave,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2017,11,Nov,315,Saturday,True,True,Fall,
+2017-11-19,1706 E 2nd St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,11,Nov,323,Sunday,True,True,Fall,
+2017-11-19,2700 S McCartney,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2017,11,Nov,323,Sunday,True,True,Fall,
+2017-11-29,3613 E Grandview Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,11,Nov,333,Wednesday,False,True,Fall,
+2017-12-10,3605 E Homestead Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,12,Dec,344,Sunday,True,True,Winter,
+2017-12-11,Behind 2211 S High St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,12,Dec,345,Monday,False,True,Winter,
+2017-12-12,3014 S Cuffers,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2017,12,Dec,346,Tuesday,False,True,Winter,
+2017-12-13,627 Western Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,12,Dec,347,Wednesday,False,True,Winter,
+2017-12-14,135 E Ridgeview Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,12,Dec,348,Thursday,False,True,Winter,
+2017-12-16,4665 N Old State Rd 37,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,12,Dec,350,Saturday,True,True,Winter,
+2017-12-18,2211 S High St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,12,Dec,352,Monday,False,True,Winter,
+2017-12-24,512 E Kirkwood Ave,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2017,12,Dec,358,Sunday,True,True,Winter,
+2017-12-29,1600 N Willis,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2017,12,Dec,363,Friday,False,True,Winter,
+2018-01-02,17th and Walnut Grove,Main Break,Main Break,Cast Iron-lead joint,Water Main,Cast Iron,True,2018,1,Jan,2,Tuesday,False,True,Winter,
+2018-01-04,E Randol Pl & S Meadowbrooke Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,1,Jan,4,Thursday,False,True,Winter,
+2018-01-08,724 N Lindbergh Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,1,Jan,8,Monday,False,True,Winter,
+2018-01-08,10th and Dunn,Main Break,Main Break,Cast Iron-lead joint,Water Main,Cast Iron,True,2018,1,Jan,8,Monday,False,True,Winter,
+2018-01-11,4123 W Middle Court,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,1,Jan,11,Thursday,False,True,Winter,
+2018-01-23,300 W Gordon Pike,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,1,Jan,23,Tuesday,False,True,Winter,
+2018-01-28,2419 W Arlington Rd,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,1,Jan,28,Sunday,True,True,Winter,
+2018-01-28,2978 N Ramble Rd E,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,1,Jan,28,Sunday,True,True,Winter,
+2018-01-29,715 E 7th St,Main Break,Main Break,Cast Iron-lead joint,Water Main,Cast Iron,True,2018,1,Jan,29,Monday,False,True,Winter,
+2018-01-29,4021 E Morningside Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,1,Jan,29,Monday,False,True,Winter,
+2018-01-29,E Randolph Ave,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,1,Jan,29,Monday,False,True,Winter,
+2018-02-13,Bottom Rd,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,2,Feb,44,Tuesday,False,True,Winter,
+2018-02-14,626 Grandview Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,2,Feb,45,Wednesday,False,True,Winter,
+2018-02-26,2001 Ashwood Ln,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,2,Feb,57,Monday,False,True,Winter,
+2018-03-04,100 W Dillman Rd,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,3,Mar,63,Sunday,True,True,Spring,
+2018-03-08,3rd and Clark,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,3,Mar,67,Thursday,False,True,Spring,
+2018-03-27,3304 Roy Schmaltz Ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,3,Mar,86,Tuesday,False,True,Spring,
+2018-04-12,1902 S Wilton,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,4,Apr,102,Thursday,False,False,Spring,
+2018-05-05,733 Pepper Ridge,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,5,May,125,Saturday,True,False,Spring,
+2018-05-25,3401 S Ashwood Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,5,May,145,Friday,False,False,Spring,
+2018-05-26,5001 N Business 37,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,5,May,146,Saturday,True,False,Spring,
+2018-05-28,3401 Ashwood Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,5,May,148,Monday,False,False,Spring,
+2018-05-31,3914 S Emilie Ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,5,May,151,Thursday,False,False,Spring,
+2018-06-05,700 Eastside Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,6,Jun,156,Tuesday,False,False,Summer,
+2018-06-11,1008 Jennifer Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,6,Jun,162,Monday,False,False,Summer,
+2018-06-13,1321 S Palmer,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,6,Jun,164,Wednesday,False,False,Summer,
+2018-06-14,1101 Benson Ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,6,Jun,165,Thursday,False,False,Summer,
+2018-06-14,3701 Grasstree Ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,6,Jun,165,Thursday,False,False,Summer,
+2018-07-02,2308 S Woodbluff Ct,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,7,Jul,183,Monday,False,False,Summer,
+2018-07-02,1034 Dencaster Ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,7,Jul,183,Monday,False,False,Summer,
+2018-07-21,3321 N Soneycret Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,7,Jul,202,Saturday,True,False,Summer,
+2018-07-26,5001 N Old 37,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,7,Jul,207,Thursday,False,False,Summer,
+2018-08-21,2102 Crandall Ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,8,Aug,233,Tuesday,False,False,Summer,
+2018-09-10,Across from 3925 S Baytree,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,9,Sep,253,Monday,False,False,Fall,
+2018-09-10,105 Sunny Slopes,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,9,Sep,253,Monday,False,False,Fall,
+2018-09-19,Sheffield and Plymouth,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,9,Sep,262,Wednesday,False,False,Fall,
+2018-10-02,1533 Elliston,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,10,Oct,275,Tuesday,False,False,Fall,
+2018-10-17,2023 Ross Ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,10,Oct,290,Wednesday,False,False,Fall,
+2018-10-26,2313 South Rockport,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,10,Oct,299,Friday,False,False,Fall,
+2018-10-30,1303 Hancock St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,10,Oct,303,Tuesday,False,False,Fall,
+2018-11-03,1412 N Jordan,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,11,Nov,307,Saturday,True,True,Fall,
+2018-11-04,2918 Emilie Ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,11,Nov,308,Sunday,True,True,Fall,
+2018-11-12,110 Sunny Slopes Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,11,Nov,316,Monday,False,True,Fall,
+2018-11-18,525 W 17th St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,11,Nov,322,Sunday,True,True,Fall,
+2018-11-23,1516 E Dorchester Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,11,Nov,327,Friday,False,True,Fall,
+2018-11-26,3261 O'Brien Pl,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,11,Nov,330,Monday,False,True,Fall,
+2018-11-29,702 Grandview Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,11,Nov,333,Thursday,False,True,Fall,
+2018-12-11,501 Audubon,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,12,Dec,345,Tuesday,False,True,Winter,
+2018-12-12,2901 S Auto Mall Rd,Main Break,Main Break,Galvanized,Water Main,Galvanized,True,2018,12,Dec,346,Wednesday,False,True,Winter,
+2018-12-17,2113 S Georgetown Rd,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,12,Dec,351,Monday,False,True,Winter,
+2018-12-22,181 E Ellis,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2018,12,Dec,356,Saturday,True,True,Winter,
+2018-12-23,2698 S McCartney Ln,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,12,Dec,357,Sunday,True,True,Winter,
+2018-12-26,500 S Liberty Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,12,Dec,360,Wednesday,False,True,Winter,
+2018-12-27,2344 E Linden Hill,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,12,Dec,361,Thursday,False,True,Winter,
+2018-12-28,2516 Roundhill Ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,12,Dec,362,Friday,False,True,Winter,
+2018-12-29,2300 E Linden Hill,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2018,12,Dec,363,Saturday,True,True,Winter,
+2019-01-02,2670 Mcartney Lane,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,1,Jan,2,Wednesday,False,True,Winter,
+2019-01-10,1316 Viva Dr.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,1,Jan,10,Thursday,False,True,Winter,
+2019-01-15,1911 E Wilton Ct,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,1,Jan,15,Tuesday,False,True,Winter,
+2019-01-22,723 West 9th,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,1,Jan,22,Tuesday,False,True,Winter,
+2019-01-23,3401 Tulip Ave,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,1,Jan,23,Wednesday,False,True,Winter,
+2019-01-25,2550 Roundhill Ln,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,1,Jan,25,Friday,False,True,Winter,
+2019-02-02,3606 S. Morningside Dr.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,2,Feb,33,Saturday,True,True,Winter,
+2019-02-13,1711 E. Windsor Dr.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,2,Feb,44,Wednesday,False,True,Winter,
+2019-02-26,1006 W. 10th St.,Main Break,Main Break,,Water Main,,,2019,2,Feb,57,Tuesday,False,True,Winter,
+2019-03-04,Rogers/High Street Round About,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,3,Mar,63,Monday,False,True,Spring,
+2019-03-05,619 W. 1st,Main Break,Main Break,,Water Main,,,2019,3,Mar,64,Tuesday,False,True,Spring,
+2019-03-06,Intersection S. Hickory Dr/ Belle Ave,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,3,Mar,65,Wednesday,False,True,Spring,
+2019-03-14,3148 Cuffers Dr.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,3,Mar,73,Thursday,False,True,Spring,
+2019-03-18,2201 N. Fritz Dr.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,3,Mar,77,Monday,False,True,Spring,
+2019-03-18,1719 E. Winslow Rd.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,3,Mar,77,Monday,False,True,Spring,
+2019-03-20,309 S. Union,Main Break,Main Break,SDR-21 PR200,Water Main,PVC,False,2019,3,Mar,79,Wednesday,False,True,Spring,
+2019-03-22,the Stands Dr. / Ashwood Dr.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,3,Mar,81,Friday,False,True,Spring,
+2019-03-31,Autumn Dr. & Autumn Ct.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,3,Mar,90,Sunday,True,True,Spring,
+2019-03-31,2344 E. Linden Hill Dr.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,3,Mar,90,Sunday,True,True,Spring,
+2019-04-15,1520 S. Highland Ave,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,4,Apr,105,Monday,False,False,Spring,
+2019-04-23,Smith Rd. & E. 10th St.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,4,Apr,113,Tuesday,False,False,Spring,
+2019-04-24,1321 S. College Mall Rd.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,4,Apr,114,Wednesday,False,False,Spring,
+2019-04-26,101 E. Ridgeview,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,4,Apr,116,Friday,False,False,Spring,
+2019-05-09,1900 E. Windsor,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,5,May,129,Thursday,False,False,Spring,
+2019-05-10,3013 E. Daniel St.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,5,May,130,Friday,False,False,Spring,
+2019-05-14,4999 Bedrock,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,5,May,134,Tuesday,False,False,Spring,
+2019-05-15,2340 E. Linden Hill DR,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,5,May,135,Wednesday,False,False,Spring,
+2019-05-16,2812 E. Winston,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,5,May,136,Thursday,False,False,Spring,
+2019-05-17,15th & Jackson,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,5,May,137,Friday,False,False,Spring,
+2019-05-25,N. Woodbridge,Main Break,Main Break,Cast Iron or Ductile,Water Main,Cast Iron,True,2019,5,May,145,Saturday,True,False,Spring,
+2019-05-30,1351 College Mall Rd.,Main Break,Main Break,SDR-21 PR200,Water Main,PVC,False,2019,5,May,150,Thursday,False,False,Spring,
+2019-06-01,1604 S. Highland,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,6,Jun,152,Saturday,True,False,Summer,
+2019-06-02,1818 S. maxwell,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,6,Jun,153,Sunday,True,False,Summer,
+2019-06-14,428 E. 6th,Main Break,Main Break,Cast Iron-lead joint,Water Main,Cast Iron,True,2019,6,Jun,165,Friday,False,False,Summer,
+2019-06-15,1911 E. Winslow,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,6,Jun,166,Saturday,True,False,Summer,
+2019-06-16,812 S. park,Main Break,Main Break,Cast Iron-lead joint,Water Main,Cast Iron,True,2019,6,Jun,167,Sunday,True,False,Summer,
+2019-06-17,705 W. Coolage,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,6,Jun,168,Monday,False,False,Summer,
+2019-06-17,1338 E. Browning Ct.,Main Break,Main Break,Cast iron,Water Main,Cast Iron,True,2019,6,Jun,168,Monday,False,False,Summer,
+2019-06-17,2128 E. Meadowbluff Ct.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,6,Jun,168,Monday,False,False,Summer,
+2019-06-18,1508 S. Maxwell St.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,6,Jun,169,Tuesday,False,False,Summer,
+2019-06-18,Emery Ct.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,6,Jun,169,Tuesday,False,False,Summer,
+2019-06-23,905 N. Maple St.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,6,Jun,174,Sunday,True,False,Summer,
+2019-06-29,409 Laurelwood Dr.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,6,Jun,180,Saturday,True,False,Summer,
+2019-07-16,Doffs & Walnut,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,7,Jul,197,Tuesday,False,False,Summer,
+2019-07-16,2805 S. Kings Ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,7,Jul,197,Tuesday,False,False,Summer,
+2019-07-21,Intersection of E. Kirkwood and Washington St.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,7,Jul,202,Sunday,True,False,Summer,
+2019-07-21,424 S. Meadowbrook,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,7,Jul,202,Sunday,True,False,Summer,
+2019-07-22,3500 Ashwood Dr.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,7,Jul,203,Monday,False,False,Summer,
+2019-07-24,423 E. Dunn,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,7,Jul,205,Wednesday,False,False,Summer,
+2019-07-24,130 W. Grimes,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,7,Jul,205,Wednesday,False,False,Summer,
+2019-07-29,S.W. Corner of 6th and Colleg,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,7,Jul,210,Monday,False,False,Summer,
+2019-07-30,1621 Greenfield Ct.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,7,Jul,211,Tuesday,False,False,Summer,
+2019-08-01,1618 Greenfield Ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,8,Aug,213,Thursday,False,False,Summer,
+2019-08-07,4283 Ramp Creek Rd.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,8,Aug,219,Wednesday,False,False,Summer,
+2019-08-10,1655 Bethel Ln,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,8,Aug,222,Saturday,True,False,Summer,
+2019-08-13,9th and Walnut,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,8,Aug,225,Tuesday,False,False,Summer,
+2019-08-14,4356 E Sundance,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,8,Aug,226,Wednesday,False,False,Summer,
+2019-08-14,2203 S. RockPort Rd.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,8,Aug,226,Wednesday,False,False,Summer,
+2019-08-15,4120 Ramp Creek Rd.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,8,Aug,227,Thursday,False,False,Summer,
+2019-08-17,3509 S. CraWdall Ct,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,8,Aug,229,Saturday,True,False,Summer,
+2019-09-14,300 Block of E. Dodds,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,9,Sep,257,Saturday,True,False,Fall,
+2019-09-20,4125 Ramp Creek Rd.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,9,Sep,263,Friday,False,False,Fall,
+2019-09-21,4738 W. Vernal Pike,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,9,Sep,264,Saturday,True,False,Fall,
+2019-09-23,3210 John Hinkle,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,9,Sep,266,Monday,False,False,Fall,
+2019-09-27,1719 W. Gray,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,9,Sep,270,Friday,False,False,Fall,
+2019-10-01,5511 S. Old SR37,Main Break,Main Break,PVC,Water Main,PVC,False,2019,10,Oct,274,Tuesday,False,False,Fall,
+2019-10-12,3950 W Walnut Leaf Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,10,Oct,285,Saturday,True,False,Fall,
+2019-10-14,900 S. Grant,Main Break,Main Break,AC/Transite,Water Main,Transite (AC),True,2019,10,Oct,287,Monday,False,False,Fall,
+2019-10-22,607 S. Adams,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,10,Oct,295,Tuesday,False,False,Fall,
+2019-10-31,E Allendale Dr and E Dunstan Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,10,Oct,304,Thursday,False,False,Fall,
+2019-11-09,2494 S. Winslow Ct.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,11,Nov,313,Saturday,True,True,Fall,
+2019-11-11,2417 Spicewood,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,11,Nov,315,Monday,False,True,Fall,
+2019-11-14,4414 N. Old SR. 37,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,11,Nov,318,Thursday,False,True,Fall,
+2019-11-18,4335 N. Old SR 37,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,11,Nov,322,Monday,False,True,Fall,
+2019-11-18,625 Audubon,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,11,Nov,322,Monday,False,True,Fall,
+2019-11-23,2978 N Ramble Rd E,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,11,Nov,327,Saturday,True,True,Fall,
+2019-11-25,2227 S. Rogers,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,11,Nov,329,Monday,False,True,Fall,
+2019-11-28,3417 N. Stoneycrest,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,11,Nov,332,Thursday,False,True,Fall,
+2019-12-02,Westplex,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,12,Dec,336,Monday,False,True,Winter,
+2019-12-05,Henderson and Maxwell,Main Break,Main Break,,Water Main,,,2019,12,Dec,339,Thursday,False,True,Winter,
+2019-12-05,701 W Ralston,Main Break,Main Break,PVC,Water Main,PVC,False,2019,12,Dec,339,Thursday,False,True,Winter,
+2019-12-14,3101 E Daniel,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2019,12,Dec,348,Saturday,True,True,Winter,
+2019-12-15,3712 E. BrownRidge,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,12,Dec,349,Sunday,True,True,Winter,
+2019-12-16,5001 N Buisness 37,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,12,Dec,350,Monday,False,True,Winter,
+2019-12-31,4275 N Old SR 37,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2019,12,Dec,365,Tuesday,False,True,Winter,
+2020-01-06,885 s. Woodcrest Dr.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2020,1,Jan,6,Monday,False,True,Winter,
+2020-01-08,3420 Ashwood Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2020,1,Jan,8,Wednesday,False,True,Winter,
+2020-01-10,817 S. Park Ave,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,1,Jan,10,Friday,False,True,Winter,
+2020-01-11,730 S. Christopher Dr.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,1,Jan,11,Saturday,True,True,Winter,
+2020-01-11,1630 E. Maplecrest Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,1,Jan,11,Saturday,True,True,Winter,
+2020-01-21,E Durham Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2020,1,Jan,21,Tuesday,False,True,Winter,
+2020-01-24,3275 N. Prow Rd,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,1,Jan,24,Friday,False,True,Winter,
+2020-01-26,717 S. Western Dr.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,1,Jan,26,Sunday,True,True,Winter,
+2020-01-27,5109 N. State Rd 37 Business,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,1,Jan,27,Monday,False,True,Winter,
+2020-02-04,1707 E 2nd St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,2,Feb,35,Tuesday,False,True,Winter,
+2020-02-06,100 S. Kingston,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,2,Feb,37,Thursday,False,True,Winter,
+2020-02-16,3308 E Roy Schmalz,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2020,2,Feb,47,Sunday,True,True,Winter,
+2020-02-17,3800 S. Bushmill Dr.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2020,2,Feb,48,Monday,False,True,Winter,
+2020-02-20,2612 N. Skyline,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,2,Feb,51,Thursday,False,True,Winter,
+2020-02-20,2300 N. Fritz Dr.,Main Break,Main Break,,Water Main,,,2020,2,Feb,51,Thursday,False,True,Winter,
+2020-03-05,2125 S. Highland Ave.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2020,3,Mar,65,Thursday,False,True,Spring,
+2020-03-11,965 S. College Mall Rd.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2020,3,Mar,71,Wednesday,False,True,Spring,
+2020-03-31,120 Hampton Ct.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2020,3,Mar,91,Tuesday,False,True,Spring,
+2020-05-06,3229 Coppertree Dr.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2020,5,May,127,Wednesday,False,False,Spring,
+2020-05-13,3144 S. Coppertree Dr.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2020,5,May,134,Wednesday,False,False,Spring,
+2020-06-08,2150 S Curry Pike,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,6,Jun,160,Monday,False,False,Summer,
+2020-06-08,640 S Morton St.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2020,6,Jun,160,Monday,False,False,Summer,
+2020-06-16,2014 S Locust Ct.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2020,6,Jun,168,Tuesday,False,False,Summer,
+2020-06-17,15th & Fairview,Main Break,Main Break,galvanized,Water Main,Galvanized,True,2020,6,Jun,169,Wednesday,False,False,Summer,
+2020-06-18,112 E Southern Dr,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2020,6,Jun,170,Thursday,False,False,Summer,
+2020-07-05,4283 E. Ramp Creek Rd.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2020,7,Jul,187,Sunday,True,False,Summer,
+2020-07-08,640 S. Morton,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,7,Jul,190,Wednesday,False,False,Summer,
+2020-07-15,4283 E. Ramp Creek Rd.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2020,7,Jul,197,Wednesday,False,False,Summer,
+2020-08-30,327 Rusgan Dr.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,8,Aug,243,Sunday,True,False,Summer,
+2020-09-01,2626 S. Bryan,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2020,9,Sep,245,Tuesday,False,False,Fall,
+2020-09-01,508 S. Fess,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2020,9,Sep,245,Tuesday,False,False,Fall,
+2020-09-04,2519 S. Madison,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2020,9,Sep,248,Friday,False,False,Fall,
+2020-09-10,2510 S. Hickory Leaf Dr.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,9,Sep,254,Thursday,False,False,Fall,
+2020-09-11,635 S. Woodlawn Ave.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,9,Sep,255,Friday,False,False,Fall,
+2020-09-14,E. Richland Dr. & N. Rural St.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,9,Sep,258,Monday,False,False,Fall,
+2020-09-22,3317 Browning Place,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,9,Sep,266,Tuesday,False,False,Fall,
+2020-09-24,4335 E. Paynetown Rd.,Main Break,Main Break,Ductile,Water Main,Ductile Iron,False,2020,9,Sep,268,Thursday,False,False,Fall,
+2020-10-10,2707 e Brigs Bend,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2020,10,Oct,284,Saturday,True,False,Fall,
+2020-10-20,1929 S. Curry Pike,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,10,Oct,294,Tuesday,False,False,Fall,
+2020-10-25,2001 E Ashwood Ln,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2020,10,Oct,299,Sunday,True,False,Fall,
+2020-11-09,1908 Marilyn,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2020,11,Nov,314,Monday,False,True,Fall,
+2020-11-10,615 e 2nd st,Main Break,Main Strike,Ductile Iron,Water Main,Ductile Iron,False,2020,11,Nov,315,Tuesday,False,True,Fall,
+2020-11-17,416 South Hickory,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,11,Nov,322,Tuesday,False,True,Fall,
+2020-11-20,1587 e circle dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,11,Nov,325,Friday,False,True,Fall,
+2020-11-20,3550 clubhouse drive,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,11,Nov,325,Friday,False,True,Fall,
+2020-11-20,1587 southdowns,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,11,Nov,325,Friday,False,True,Fall,
+2020-11-21,662 Greene drive,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,11,Nov,326,Saturday,True,True,Fall,
+2020-11-23,1813 Arden Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,11,Nov,328,Monday,False,True,Fall,
+2020-11-24,1826 S Highland,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2020,11,Nov,329,Tuesday,False,True,Fall,
+2020-11-26,608 N Kerry Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,11,Nov,331,Thursday,False,True,Fall,
+2020-11-27,That Rd. and Rogers,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2020,11,Nov,332,Friday,False,True,Fall,
+2020-11-28,4509 Blackstone Ct.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,11,Nov,333,Saturday,True,True,Fall,
+2020-12-01,3410 S Walnut St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,12,Dec,336,Tuesday,False,True,Winter,
+2020-12-09,1114 n lindbergh,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2020,12,Dec,344,Wednesday,False,True,Winter,
+2020-12-12,510 n hamilton ct.,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2020,12,Dec,347,Saturday,True,True,Winter,
+2020-12-17,between 2301 & 2315 N. Smith Pk.,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2020,12,Dec,352,Thursday,False,True,Winter,
+2020-12-18,on S. Henderson at Melrose,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,12,Dec,353,Friday,False,True,Winter,
+2020-12-22,E. Allendale and Tudor,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2020,12,Dec,357,Tuesday,False,True,Winter,
+2021-01-01,1007 N Summit,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,1,Jan,1,Friday,False,True,Winter,
+2021-01-02,2821 Yonkers St.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,1,Jan,2,Saturday,True,True,Winter,
+2021-01-03,1774 E 10th,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,1,Jan,3,Sunday,True,True,Winter,
+2021-01-04,1200 S Rogers,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,1,Jan,4,Monday,False,True,Winter,
+2021-01-04,431 W Walls,Main Break,Main Break,Galvanized,Water Main,Galvanized,True,2021,1,Jan,4,Monday,False,True,Winter,
+2021-01-07,1926 N Locust Ct,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,1,Jan,7,Thursday,False,True,Winter,
+2021-01-08,125 Sunny Slopes,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,1,Jan,8,Friday,False,True,Winter,
+2021-01-12,2801 Dale Ct.,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,1,Jan,12,Tuesday,False,True,Winter,
+2021-01-17,1882 s walnut,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,1,Jan,17,Sunday,True,True,Winter,
+2021-01-18,101 e rural,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,1,Jan,18,Monday,False,True,Winter,
+2021-01-21,1920 West Fountain Dr,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,1,Jan,21,Thursday,False,True,Winter,
+2021-01-23,Fountain and Gray St.,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,1,Jan,23,Saturday,True,True,Winter,
+2021-01-25,1009 Illinois st,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,1,Jan,25,Monday,False,True,Winter,
+2021-01-27,512 W Skyline,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,1,Jan,27,Wednesday,False,True,Winter,
+2021-01-28,504 w lois ln,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,1,Jan,28,Thursday,False,True,Winter,
+2021-01-29,7th and N walnut St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,1,Jan,29,Friday,False,True,Winter,
+2021-02-01,1505 stone dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,2,Feb,32,Monday,False,True,Winter,
+2021-02-02,2525 W Fountain Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,2,Feb,33,Tuesday,False,True,Winter,
+2021-02-13,N Lemon Ln & Fountain Dr,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,2,Feb,44,Saturday,True,True,Winter,
+2021-02-14,918 N summit,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,2,Feb,45,Sunday,True,True,Winter,
+2021-02-17,15th/ Maple,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,2,Feb,48,Wednesday,False,True,Winter,
+2021-02-18,1312 W 12th,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,2,Feb,49,Thursday,False,True,Winter,
+2021-02-18,1012 N Lindbergh,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,2,Feb,49,Thursday,False,True,Winter,
+2021-02-19,1208 W 15th,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,2,Feb,50,Friday,False,True,Winter,
+2021-02-20,4th & Walnut,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,2,Feb,51,Saturday,True,True,Winter,
+2021-02-22,902 s lincoln st,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,2,Feb,53,Monday,False,True,Winter,
+2021-02-22,6th & Lincoln St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,2,Feb,53,Monday,False,True,Winter,
+2021-02-22,3112 Forrester,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,2,Feb,53,Monday,False,True,Winter,
+2021-02-23,1403 W 6th,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,2,Feb,54,Tuesday,False,True,Winter,
+2021-02-23,3101 W David St,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,2,Feb,54,Tuesday,False,True,Winter,
+2021-02-25,1306 w 15th st,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,2,Feb,56,Thursday,False,True,Winter,
+2021-02-25,100 N Walnut,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,2,Feb,56,Thursday,False,True,Winter,
+2021-02-25,2321 N Fritz Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,2,Feb,56,Thursday,False,True,Winter,
+2021-02-27,3615 s hays dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,2,Feb,58,Saturday,True,True,Winter,
+2021-03-04,12th/ Monroe,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,3,Mar,63,Thursday,False,True,Spring,
+2021-03-15,1804 W Gray,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,3,Mar,74,Monday,False,True,Spring,
+2021-03-21,2300 ashwood ct,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,3,Mar,80,Sunday,True,True,Spring,
+2021-03-25,1632 Buffstone Ct,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,3,Mar,84,Thursday,False,True,Spring,
+2021-03-28,3501 William Ct,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,3,Mar,87,Sunday,True,True,Spring,
+2021-03-29,1800 N Walnut,Main Break,Main Break,PVC,Water Main,PVC,False,2021,3,Mar,88,Monday,False,True,Spring,
+2021-04-02,Allen/ Larkspur,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,4,Apr,92,Friday,False,False,Spring,
+2021-04-07,"forrest, 11th",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,4,Apr,97,Wednesday,False,False,Spring,
+2021-04-12,315 w kirkwood,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,4,Apr,102,Monday,False,False,Spring,
+2021-04-14,1305 n hancock,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,4,Apr,104,Wednesday,False,False,Spring,
+2021-04-16,2311 S. Rockport Rd.,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,4,Apr,106,Friday,False,False,Spring,
+2021-04-19,1800 N Walnut,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,4,Apr,109,Monday,False,False,Spring,
+2021-04-20,Highland Ave. & Skylark Ct.,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,4,Apr,110,Tuesday,False,False,Spring,
+2021-04-22,5322 S. White Pine Dr.,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,4,Apr,112,Thursday,False,False,Spring,
+2021-04-29,1403 W 6th,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,4,Apr,119,Thursday,False,False,Spring,
+2021-05-07,1625 William Ct,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,5,May,127,Friday,False,False,Spring,
+2021-05-14,Estate Dr & Hedgewood Dr,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,5,May,134,Friday,False,False,Spring,
+2021-06-03,1609 W Allen,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,6,Jun,154,Thursday,False,False,Summer,
+2021-06-05,1100 w country side ln,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,6,Jun,156,Saturday,True,False,Summer,
+2021-06-21,1100 W Countryside Lane,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,6,Jun,172,Monday,False,False,Summer,
+2021-06-25,1303 S. Stull,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,6,Jun,176,Friday,False,False,Summer,
+2021-06-30,South Court/ Olcott,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,6,Jun,181,Wednesday,False,False,Summer,
+2021-07-07,131 ridgeview,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,7,Jul,188,Wednesday,False,False,Summer,
+2021-07-20,Sheffield/ Cabot,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,7,Jul,201,Tuesday,False,False,Summer,
+2021-08-11,3813 s lindas way,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,8,Aug,223,Wednesday,False,False,Summer,
+2021-08-14,3801 s. bushmill rd.,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,8,Aug,226,Saturday,True,False,Summer,
+2021-08-17,841 parksqaure,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,8,Aug,229,Tuesday,False,False,Summer,
+2021-08-24,512 Cabot,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,8,Aug,236,Tuesday,False,False,Summer,
+2021-08-26,601 N. Walnut,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,8,Aug,238,Thursday,False,False,Summer,
+2021-08-27,17th and fee ln,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,8,Aug,239,Friday,False,False,Summer,
+2021-09-06,2500 N. Curry Pk,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,9,Sep,249,Monday,False,False,Fall,
+2021-09-06,7th & Waldron,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,9,Sep,249,Monday,False,False,Fall,
+2021-09-08,14th St and N WSalnut,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,9,Sep,251,Wednesday,False,False,Fall,
+2021-09-28,510 S College Mall Rd.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,9,Sep,271,Tuesday,False,False,Fall,
+2021-09-29,600 S. Pleasantridge Rd.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,9,Sep,272,Wednesday,False,False,Fall,
+2021-09-29,2620 Cota Dr.,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,9,Sep,272,Wednesday,False,False,Fall,
+2021-10-01,E. 14th and N. Walnut st. on 14th,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,10,Oct,274,Friday,False,False,Fall,
+2021-10-01,2620 Cota Dr.,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,10,Oct,274,Friday,False,False,Fall,
+2021-10-14,229 W. 1st,Main Break,Main Break,Galvanized,Water Main,Galvanized,True,2021,10,Oct,287,Thursday,False,False,Fall,
+2021-11-05,1160 s morton,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,11,Nov,309,Friday,False,True,Fall,
+2021-11-05,1140 s morton,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,11,Nov,309,Friday,False,True,Fall,
+2021-11-19,Ashwood Dr/ Ashwood Ln,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,11,Nov,323,Friday,False,True,Fall,
+2021-11-20,3624 morningside,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,11,Nov,324,Saturday,True,True,Fall,
+2021-11-24,4001 w 3rd st,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,11,Nov,328,Wednesday,False,True,Fall,
+2021-12-09,3678 Sowder Sq.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,12,Dec,343,Thursday,False,True,Winter,
+2021-12-17,2431 Fritz Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,12,Dec,351,Friday,False,True,Winter,
+2021-12-21,1008 N Lindburgh,Main Break,Main Strike,Cast Iron,Water Main,Cast Iron,True,2021,12,Dec,355,Tuesday,False,True,Winter,
+2021-12-21,1900 s walnut,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2021,12,Dec,355,Tuesday,False,True,Winter,
+2021-12-26,705 W. Coolidge Dr.,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2021,12,Dec,360,Sunday,True,True,Winter,
+2022-01-01,5th + Adams,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2022,1,Jan,1,Saturday,True,True,Winter,
+2022-01-03,3011 s stratford,Main Break,Main Break,galvanized,Water Main,Galvanized,True,2022,1,Jan,3,Monday,False,True,Winter,
+2022-01-05,Lori Lane,Main Break,Main Strike,Cast Iron,Water Main,Cast Iron,True,2022,1,Jan,5,Wednesday,False,True,Winter,
+2022-01-17,119 S. Glennwood Ave W.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,1,Jan,17,Monday,False,True,Winter,
+2022-01-18,Hunter/ Highland,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,1,Jan,18,Tuesday,False,True,Winter,
+2022-01-20,2401 N. Milo B. Sampson Ln,Main Break,Main Break,steel,Water Main,Steel,True,2022,1,Jan,20,Thursday,False,True,Winter,
+2022-01-24,Park Ridge/ Saratoga,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,1,Jan,24,Monday,False,True,Winter,
+2022-01-25,509 Colony ct,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,1,Jan,25,Tuesday,False,True,Winter,
+2022-01-26,2700 E Covenantor Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,1,Jan,26,Wednesday,False,True,Winter,
+2022-01-26,1506 S Dorchester Dr,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2022,1,Jan,26,Wednesday,False,True,Winter,
+2022-01-27,1206 N Lincoln,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,1,Jan,27,Thursday,False,True,Winter,
+2022-02-04,E. 2nd St. and S. Clifton,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,2,Feb,35,Friday,False,True,Winter,
+2022-02-09,2485 Brookside Dr.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,2,Feb,40,Wednesday,False,True,Winter,
+2022-02-10,Rockcreek & Woodbluff,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,2,Feb,41,Thursday,False,True,Winter,
+2022-02-14,1443 W Westwind Ct,Main Break,Main Strike,PVC,Water Main,PVC,False,2022,2,Feb,45,Monday,False,True,Winter,
+2022-02-16,16th and monroe,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,2,Feb,47,Wednesday,False,True,Winter,
+2022-02-28,1225 N Lindbergh,Main Break,Main Strike,Cast Iron,Water Main,Cast Iron,True,2022,2,Feb,59,Monday,False,True,Winter,
+2022-03-01,421 Walls Dr,Main Break,Main Break,galvanized,Water Main,Galvanized,True,2022,3,Mar,60,Tuesday,False,True,Spring,
+2022-03-22,1805 Southdowns,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,3,Mar,81,Tuesday,False,True,Spring,
+2022-03-23,621 W. 7th St.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,3,Mar,82,Wednesday,False,True,Spring,
+2022-04-08,3rd/ Wynndale,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2022,4,Apr,98,Friday,False,False,Spring,
+2022-05-01,1543 S. maxwell St.,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2022,5,May,121,Sunday,True,False,Spring,
+2022-05-06,w16th and monroe st,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,5,May,126,Friday,False,False,Spring,
+2022-05-21,3313 Browning Place,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,5,May,141,Saturday,True,False,Spring,
+2022-05-24,3313 Browning Place,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2022,5,May,144,Tuesday,False,False,Spring,
+2022-06-01,4531 E Sheffield,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,6,Jun,152,Wednesday,False,False,Summer,
+2022-06-08,2734 E Buttonwood Lane,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2022,6,Jun,159,Wednesday,False,False,Summer,
+2022-06-14,Rogers + Walls Dr,Main Break,Main Strike,Cast Iron,Water Main,Cast Iron,True,2022,6,Jun,165,Tuesday,False,False,Summer,
+2022-06-16,S Rogers + That Rd,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2022,6,Jun,167,Thursday,False,False,Summer,
+2022-06-17,1014 e wylie,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,6,Jun,168,Friday,False,False,Summer,
+2022-06-18,9th and Morton,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2022,6,Jun,169,Saturday,True,False,Summer,
+2022-06-20,1358 cuffers dr,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2022,6,Jun,171,Monday,False,False,Summer,
+2022-07-25,2520 W. Industrial park,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2022,7,Jul,206,Monday,False,False,Summer,
+2022-08-09,,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2022,8,Aug,221,Tuesday,False,False,Summer,
+2022-08-12,"3645 S Rogers. Bloomington, IN 47401",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,8,Aug,224,Friday,False,False,Summer,47401
+2022-08-19,3109 S Rogers St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,8,Aug,231,Friday,False,False,Summer,
+2022-08-22,2301 N Smith Pike,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2022,8,Aug,234,Monday,False,False,Summer,
+2022-08-22,2421 N Fritz Dr,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2022,8,Aug,234,Monday,False,False,Summer,
+2022-09-19,3229 S Coppertree Dr,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2022,9,Sep,262,Monday,False,False,Fall,
+2022-09-25,2463 S Winslow Ct.,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2022,9,Sep,268,Sunday,True,False,Fall,
+2022-10-12,"2698 McCartney Ln Bloomington, IN 47401",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2022,10,Oct,285,Wednesday,False,False,Fall,47401
+2022-10-12,"716 S Fiedcrest Ave. Bloomington, IN 47401",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,10,Oct,285,Wednesday,False,False,Fall,47401
+2022-10-14,1211 acacia court,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2022,10,Oct,287,Friday,False,False,Fall,
+2022-10-17,3501 windcrest street,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,10,Oct,290,Monday,False,False,Fall,
+2022-10-18,1600 Willis drive,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,10,Oct,291,Tuesday,False,False,Fall,
+2022-11-17,Lori Lane,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,11,Nov,321,Thursday,False,True,Fall,
+2022-11-23,1015 Manor Rd,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,11,Nov,327,Wednesday,False,True,Fall,
+2022-11-29,2302 Woodstock Ln,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,11,Nov,333,Tuesday,False,True,Fall,
+2022-11-30,1402 S Henderson St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,11,Nov,334,Wednesday,False,True,Fall,
+2022-11-30,2706 banta ave,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2022,11,Nov,334,Wednesday,False,True,Fall,
+2022-12-01,3522 morningside drive,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2022,12,Dec,335,Thursday,False,True,Winter,
+2022-12-01,522 N Kerry Rd,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,12,Dec,335,Thursday,False,True,Winter,
+2022-12-02,2302 E Woodstock PL,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,12,Dec,336,Friday,False,True,Winter,
+2022-12-02,"628 S Woodscrest Dr Bloomington, IN 474017",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,12,Dec,336,Friday,False,True,Winter,
+2022-12-07,"2451 E 10th st Bloomington, IN",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,12,Dec,341,Wednesday,False,True,Winter,
+2022-12-09,70 Lori Ln,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,12,Dec,343,Friday,False,True,Winter,
+2022-12-14,1205 Collinswood Dr,Service Line Break,Service Line Strike,,Service Line,,,2022,12,Dec,348,Wednesday,False,True,Winter,
+2022-12-16,3226 Meeting House Ct,Service Line Break,Service Line Strike,,Service Line,,,2022,12,Dec,350,Friday,False,True,Winter,
+2022-12-22,909 S Dunn,Service Line Break,Service Line Strike,,Service Line,,,2022,12,Dec,356,Thursday,False,True,Winter,
+2022-12-27,"3442 E Longview Ave Bloomington, IN",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,12,Dec,361,Tuesday,False,True,Winter,
+2022-12-29,411 S wood crest drive,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,12,Dec,363,Thursday,False,True,Winter,
+2022-12-30,"940 S Hawthorne DR Bloomington, IN 47401",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,12,Dec,364,Friday,False,True,Winter,47401
+2022-12-30,"504 East AUDUBON DR, BLOOMINGTON, IN, 47408",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,12,Dec,364,Friday,False,True,Winter,47408
+2022-12-31,602 S Ravencrest,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2022,12,Dec,365,Saturday,True,True,Winter,
+2022-12-31,1658 N Russell Rd,Main Break,Main Break,PVC,Water Main,PVC,False,2022,12,Dec,365,Saturday,True,True,Winter,
+2022-12-31,1658 N Russel RD,Service Line Break,Service Line Leak,,Service Line,,,2022,12,Dec,365,Saturday,True,True,Winter,
+2023-01-01,102 S Overhill,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,1,Jan,1,Sunday,True,True,Winter,
+2023-01-01,2700 S Banta,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,1,Jan,1,Sunday,True,True,Winter,
+2023-01-03,611 N Rogers St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,1,Jan,3,Tuesday,False,True,Winter,
+2023-01-03,1020 West 14th,Service Line Break,Main Strike,Cast Iron,Service Line,Cast Iron,True,2023,1,Jan,3,Tuesday,False,True,Winter,
+2023-01-04,2408 Shadow Grove,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,1,Jan,4,Wednesday,False,True,Winter,
+2023-01-05,Intersection of E Brighton Ave & Smith Rd,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,1,Jan,5,Thursday,False,True,Winter,
+2023-01-09,117 N Pinewood Dr,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,1,Jan,9,Monday,False,True,Winter,
+2023-01-09,1715 E Arden Dr,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,1,Jan,9,Monday,False,True,Winter,
+2023-01-09,431 W Walls Dr,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,1,Jan,9,Monday,False,True,Winter,
+2023-01-09,3912 N Whitewood Way,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,1,Jan,9,Monday,False,True,Winter,
+2023-01-11,612 s henderson st,Service Line Break,Service Line Leak,,Service Line,,,2023,1,Jan,11,Wednesday,False,True,Winter,
+2023-01-12,902 Maxwell Terrace,Service Line Break,Service Line Leak,,Service Line,,,2023,1,Jan,12,Thursday,False,True,Winter,
+2023-01-17,3106 w 12th st,Main Break,Main Strike,Cast Iron,Water Main,Cast Iron,True,2023,1,Jan,17,Tuesday,False,True,Winter,
+2023-01-17,4229 E Deckard,Main Break,Main Break,PVC,Water Main,PVC,False,2023,1,Jan,17,Tuesday,False,True,Winter,
+2023-01-17,4521 Cambridge Ct,Service Line Break,Service Line Strike,,Service Line,,,2023,1,Jan,17,Tuesday,False,True,Winter,
+2023-01-17,4504 Cambridge Ct,Service Line Break,Service Line Strike,,Service Line,,,2023,1,Jan,17,Tuesday,False,True,Winter,
+2023-01-18,1412 N Jordan,Service Line Break,Service Line Leak,,Service Line,,,2023,1,Jan,18,Wednesday,False,True,Winter,
+2023-01-20,3741 N kinser pike,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,1,Jan,20,Friday,False,True,Winter,
+2023-01-20,4421 Moores Pike,Service Line Break,Service Line Strike,,Service Line,,,2023,1,Jan,20,Friday,False,True,Winter,
+2023-01-31,812 W 9th St,Service Line Break,Service Line Strike,,Service Line,,,2023,1,Jan,31,Tuesday,False,True,Winter,
+2023-02-04,4201 W 3rd St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,2,Feb,35,Saturday,True,True,Winter,
+2023-02-06,424 S College Mall Road Bloomington Indiana,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,2,Feb,37,Monday,False,True,Winter,
+2023-02-06,5001 North State Road 37,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,2,Feb,37,Monday,False,True,Winter,
+2023-02-08,1311 S Roger St,Service Line Break,Service Line Strike,,Service Line,,,2023,2,Feb,39,Wednesday,False,True,Winter,
+2023-02-10,"S Clarizz Blvd & E Moores Pike, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Strike,,Service Line,,,2023,2,Feb,41,Friday,False,True,Winter,47401
+2023-02-11,662 w green rd,Service Line Break,Service Line Leak,,Service Line,,,2023,2,Feb,42,Saturday,True,True,Winter,
+2023-02-12,2845 W Bloomfield Rd,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,2,Feb,43,Sunday,True,True,Winter,
+2023-02-17,,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,2,Feb,48,Friday,False,True,Winter,
+2023-02-20,,Service Line Break,Service Line Leak,,Service Line,,,2023,2,Feb,51,Monday,False,True,Winter,
+2023-02-21,"1525 SOUTH ROGERS ST, BLOOMINGTON, IN, 47403",Service Line Break,Service Line Strike,,Service Line,,,2023,2,Feb,52,Tuesday,False,True,Winter,47403
+2023-03-01,1912 wexley,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,3,Mar,60,Wednesday,False,True,Spring,
+2023-03-01,814 S AutoMall Rd,Service Line Break,Service Line Strike,,Service Line,,,2023,3,Mar,60,Wednesday,False,True,Spring,
+2023-03-06,Brownridge and Meadowbrook,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,3,Mar,65,Monday,False,True,Spring,
+2023-03-07,804 Auto Mall rd,Service Line Break,Service Line Strike,,Service Line,,,2023,3,Mar,66,Tuesday,False,True,Spring,
+2023-03-08,3441 N Kinser Pike,Service Line Break,Service Line Strike,,Service Line,,,2023,3,Mar,67,Wednesday,False,True,Spring,
+2023-03-10,437 Western dr,Service Line Break,Service Line Leak,,Service Line,,,2023,3,Mar,69,Friday,False,True,Spring,
+2023-03-20,402 east 6th street,Service Line Break,Service Line Strike,Cast Iron,Service Line,Cast Iron,True,2023,3,Mar,79,Monday,False,True,Spring,
+2023-03-24,3313 Browning Place,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,3,Mar,83,Friday,False,True,Spring,
+2023-03-29,"1527 South HIGHLAND AVE, BLOOMINGTON, IN, 47401",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,3,Mar,88,Wednesday,False,True,Spring,47401
+2023-03-31,WindermereWoods/Convenanter,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,3,Mar,90,Friday,False,True,Spring,
+2023-04-03,Glendora and Dunn,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,4,Apr,93,Monday,False,False,Spring,
+2023-04-06,3901 E Hagan st,Service Line Break,Service Line Leak,,Service Line,,,2023,4,Apr,96,Thursday,False,False,Spring,
+2023-04-11,"2435 East 3RD ST, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Strike,,Service Line,,,2023,4,Apr,101,Tuesday,False,False,Spring,47401
+2023-04-17,907 W 8th,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,4,Apr,107,Monday,False,False,Spring,
+2023-04-17,907 W. 8th,Service Line Break,Service Line Leak,,Service Line,,,2023,4,Apr,107,Monday,False,False,Spring,
+2023-04-23,2701 Olcott Blvd,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,4,Apr,113,Sunday,True,False,Spring,
+2023-04-24,2701 Olcott Blvd,Service Line Break,Service Line Leak,,Service Line,,,2023,4,Apr,114,Monday,False,False,Spring,
+2023-04-26,2650 E Rock Creek,Service Line Break,Service Line Leak,,Service Line,,,2023,4,Apr,116,Wednesday,False,False,Spring,
+2023-05-10,"1613 SOUTH WALNUT ST, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Leak,,Service Line,,,2023,5,May,130,Wednesday,False,False,Spring,47401
+2023-05-15,"1351 SOUTH COLLEGE MALL RD, BLOOMINGTON, IN, 47401",Main Break,Main Break,,Water Main,,,2023,5,May,135,Monday,False,False,Spring,47401
+2023-05-18,"1547 WEST LEIGHTON LN, BLOOMINGTON, IN, 47403",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,5,May,138,Thursday,False,False,Spring,47403
+2023-05-26,"154 NORTH HILLSDALE DR, BLOOMINGTON, IN, 47408",Service Line Break,Service Line Strike,,Service Line,,,2023,5,May,146,Friday,False,False,Spring,47408
+2023-05-28,"2411 EAST OAKMONT DR, BLOOMINGTON, IN, 47401",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,5,May,148,Sunday,True,False,Spring,47401
+2023-05-29,"2600 SOUTH ROBINS BOW, BLOOMINGTON, IN, 47401",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,5,May,149,Monday,False,False,Spring,47401
+2023-05-29,"4305 EAST WEMBLEY CT, BLOOMINGTON, IN, 47408",Service Line Break,Service Line Leak,,Service Line,,,2023,5,May,149,Monday,False,False,Spring,47408
+2023-05-30,"820 EAST HILLSIDE DR, BLOOMINGTON, IN, 47401",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,5,May,150,Tuesday,False,False,Spring,47401
+2023-06-01,"326 WEST 17TH ST, BLOOMINGTON, IN, 47404",Service Line Break,Service Line Strike,,Service Line,,,2023,6,Jun,152,Thursday,False,False,Summer,47404
+2023-06-06,"2916 South DALE CT, BLOOMINGTON, IN, 47401",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,6,Jun,157,Tuesday,False,False,Summer,47401
+2023-06-06,"4618 SOUTH COLLEGE DR, BLOOMINGTON, IN, 47403",Service Line Break,Service Line Leak,,Service Line,,,2023,6,Jun,157,Tuesday,False,False,Summer,47403
+2023-06-12,"2010 WEST FOUNTAIN DR, BLOOMINGTON, IN, 47404",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,6,Jun,163,Monday,False,False,Summer,47404
+2023-06-14,"WEST 17TH ST & NORTH KINSER PIKE, BLOOMINGTON, IN, 47404",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,6,Jun,165,Wednesday,False,False,Summer,47404
+2023-06-15,"1301 S MADISON ST, BLOOMINGTON, IN, 47403",Service Line Break,Service Line Leak,,Service Line,,,2023,6,Jun,166,Thursday,False,False,Summer,47403
+2023-06-16,"1453 WEST PETAL CT, BLOOMINGTON, IN, 47403",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,6,Jun,167,Friday,False,False,Summer,47403
+2023-06-18,"2815 SOUTH DALE CT, BLOOMINGTON, IN, 47401",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,6,Jun,169,Sunday,True,False,Summer,47401
+2023-06-21,"2965 SOUTH PINEWOOD LN, BLOOMINGTON, IN, 47403",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,6,Jun,172,Wednesday,False,False,Summer,47403
+2023-06-22,"2930 SOUTH PINEWOOD LN, BLOOMINGTON, IN, 47403",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,6,Jun,173,Thursday,False,False,Summer,47403
+2023-06-26,Intersection of N Fritz Dr & E Glendora Dr.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,6,Jun,177,Monday,False,False,Summer,
+2023-06-27,"402 East 19TH ST, BLOOMINGTON, IN, 47408",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,6,Jun,178,Tuesday,False,False,Summer,47408
+2023-06-27,"4500 EAST BLACKSTONE CT, BLOOMINGTON, IN, 47408",Service Line Break,Service Line Strike,,Service Line,,,2023,6,Jun,178,Tuesday,False,False,Summer,47408
+2023-07-06,"712 WEST 17TH ST, BLOOMINGTON, IN, 47404",Service Line Break,Service Line Leak,,Service Line,,,2023,7,Jul,187,Thursday,False,False,Summer,47404
+2023-07-10,"623 EAST 13TH ST, BLOOMINGTON, IN, 47408",Service Line Break,Service Line Strike,,Service Line,,,2023,7,Jul,191,Monday,False,False,Summer,47408
+2023-07-10,"306 EAST 19TH ST, BLOOMINGTON, IN, 47408",Service Line Break,Service Line Strike,,Service Line,,,2023,7,Jul,191,Monday,False,False,Summer,47408
+2023-07-11,"2710 EAST BRIGS BND, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Strike,,Service Line,,,2023,7,Jul,192,Tuesday,False,False,Summer,47401
+2023-07-11,3825  S Leonard Springs,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,7,Jul,192,Tuesday,False,False,Summer,
+2023-07-11,3914 Emilie Ct,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,7,Jul,192,Tuesday,False,False,Summer,
+2023-07-12,"1350 EAST BROWNING CT, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Strike,,Service Line,,,2023,7,Jul,193,Wednesday,False,False,Summer,47401
+2023-07-13,"750 WEST 17TH ST, BLOOMINGTON, IN, 47404",Service Line Break,Service Line Strike,,Service Line,,,2023,7,Jul,194,Thursday,False,False,Summer,47404
+2023-07-17,327 east Winslow road,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,7,Jul,198,Monday,False,False,Summer,
+2023-07-17,1212 W Acacia Ct,Main Break,Main Strike,Ductile Iron,Water Main,Ductile Iron,False,2023,7,Jul,198,Monday,False,False,Summer,
+2023-07-17,1523 S Rodgers St,Main Break,Main Strike,Ductile Iron,Water Main,Ductile Iron,False,2023,7,Jul,198,Monday,False,False,Summer,
+2023-07-19,1030 W Kirkwood Avenue,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,7,Jul,200,Wednesday,False,False,Summer,
+2023-07-20,3313 S Browning Place,Main Break,Main Break,,Water Main,,,2023,7,Jul,201,Thursday,False,False,Summer,
+2023-07-20,"304 EAST 19TH ST, BLOOMINGTON, IN, 47408",Service Line Break,Service Line Strike,,Service Line,,,2023,7,Jul,201,Thursday,False,False,Summer,47408
+2023-07-22,2614 Poplar Dr,Main Break,Main Break,,Water Main,,,2023,7,Jul,203,Saturday,True,False,Summer,
+2023-07-24,1820 E 10th St,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,7,Jul,205,Monday,False,False,Summer,
+2023-07-24,"603 EAST MILLER DR, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Strike,,Service Line,,,2023,7,Jul,205,Monday,False,False,Summer,47401
+2023-07-25,1639 S Sycamore Court,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,7,Jul,206,Tuesday,False,False,Summer,
+2023-07-26,"5380 SOUTH FAIRFAX RD, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Leak,,Service Line,,,2023,7,Jul,207,Wednesday,False,False,Summer,47401
+2023-07-26,"EAST 19TH ST & NORTH DUNN ST, BLOOMINGTON, IN, 47408",Service Line Break,Service Line Leak,,Service Line,,,2023,7,Jul,207,Wednesday,False,False,Summer,47408
+2023-07-26,"1350 EAST BROWNING CT, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Strike,,Service Line,,,2023,7,Jul,207,Wednesday,False,False,Summer,47401
+2023-07-27,809 S Park Ave,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,7,Jul,208,Thursday,False,False,Summer,
+2023-07-28,1175 S College Mall Road,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,7,Jul,209,Friday,False,False,Summer,
+2023-07-31,"1217 EAST ELLISTON DR, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Strike,,Service Line,,,2023,7,Jul,212,Monday,False,False,Summer,47401
+2023-08-04,3217 Browning Place,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,8,Aug,216,Friday,False,False,Summer,
+2023-08-05,1306 S. Lincoln St,Main Break,Main Break,,Water Main,,,2023,8,Aug,217,Saturday,True,False,Summer,
+2023-08-15,"572 W GREEN RD, BLOOMINGTON, IN, 47403",Service Line Break,Service Line Leak,,Service Line,,,2023,8,Aug,227,Tuesday,False,False,Summer,47403
+2023-08-15,"572 WEST GREEN RD, BLOOMINGTON, IN, 47403",Service Line Break,Service Line Leak,,Service Line,,,2023,8,Aug,227,Tuesday,False,False,Summer,47403
+2023-08-16,"3719 E CAMERON AVE, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Leak,,Service Line,,,2023,8,Aug,228,Wednesday,False,False,Summer,47401
+2023-08-21,406 W Somersbe Pl,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,8,Aug,233,Monday,False,False,Summer,
+2023-08-22,2720 E Pine Ln,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,8,Aug,234,Tuesday,False,False,Summer,
+2023-08-23,4258 Ramp Creek,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,8,Aug,235,Wednesday,False,False,Summer,
+2023-08-29,"1402 SOUTH WINFIELD RD, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Strike,,Service Line,,,2023,8,Aug,241,Tuesday,False,False,Summer,47401
+2023-09-06,"2722 EAST SPICEWOOD LN, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Strike,Ductile Iron,Service Line,Ductile Iron,False,2023,9,Sep,249,Wednesday,False,False,Fall,47401
+2023-09-11,"1302 NORTH DUNN ST, BLOOMINGTON, IN, 47408",Service Line Break,Service Line Leak,,Service Line,,,2023,9,Sep,254,Monday,False,False,Fall,47408
+2023-09-14,"2425 SOUTH ROCKY CLIFF CT, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Strike,,Service Line,,,2023,9,Sep,257,Thursday,False,False,Fall,47401
+2023-09-15,2516 Round Hill Ln,Main Break,Main Strike,PVC,Water Main,PVC,False,2023,9,Sep,258,Friday,False,False,Fall,
+2023-09-15,"1555 WEST PETAL CT, BLOOMINGTON, IN, 47403",Service Line Break,Service Line Leak,,Service Line,,,2023,9,Sep,258,Friday,False,False,Fall,47403
+2023-09-17,11th and Adams St,Main Break,Main Break,,Water Main,,,2023,9,Sep,260,Sunday,True,False,Fall,
+2023-09-26,4283 East Ramp Creek Rd,Main Break,Main Break,,Water Main,,,2023,9,Sep,269,Tuesday,False,False,Fall,
+2023-09-27,606 West Gourley Pike,Main Break,Main Break,,Water Main,,,2023,9,Sep,270,Wednesday,False,False,Fall,
+2023-09-28,3306 Tulip Ave,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,9,Sep,271,Thursday,False,False,Fall,
+2023-10-02,2804 Blue Slopes,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,10,Oct,275,Monday,False,False,Fall,
+2023-10-03,"2736 NORTH BLUE RIDGE CT, BLOOMINGTON, IN, 47408",Service Line Break,Service Line Strike,,Service Line,,,2023,10,Oct,276,Tuesday,False,False,Fall,47408
+2023-10-04,3401 Kinser Pike,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,10,Oct,277,Wednesday,False,False,Fall,
+2023-10-04,125 S Park Ridge,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,10,Oct,277,Wednesday,False,False,Fall,
+2023-10-07,3000 N Browncliff Ln,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,10,Oct,280,Saturday,True,False,Fall,
+2023-10-07,1950 S Maxwell,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,10,Oct,280,Saturday,True,False,Fall,
+2023-10-10,"500 SOUTH MITCHELL ST, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Strike,,Service Line,,,2023,10,Oct,283,Tuesday,False,False,Fall,47401
+2023-10-10,"2231 EAST QUEENS WAY, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Strike,,Service Line,,,2023,10,Oct,283,Tuesday,False,False,Fall,47401
+2023-10-16,Just north of the W Country Club Ave & S Banta Ave intersection,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,10,Oct,289,Monday,False,False,Fall,
+2023-10-16,"2730 BLUE RIDGE CT, BLOOMINGTON, IN, 47408",Service Line Break,Service Line Strike,,Service Line,,,2023,10,Oct,289,Monday,False,False,Fall,47408
+2023-10-23,"4021 East MORNINGSIDE DR, BLOOMINGTON, IN, 47408",Main Break,Main Strike,Ductile Iron,Water Main,Ductile Iron,False,2023,10,Oct,296,Monday,False,False,Fall,47408
+2023-10-25,"710 EAST ATWATER AVE, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Leak,,Service Line,,,2023,10,Oct,298,Wednesday,False,False,Fall,47401
+2023-10-26,"2001 EAST ARDEN DR, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Leak,,Service Line,,,2023,10,Oct,299,Thursday,False,False,Fall,47401
+2023-10-26,3309 s glen arbor Ct,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,10,Oct,299,Thursday,False,False,Fall,
+2023-11-02,"4425 Etter Dr. BLOOMINGTON, IN 47408",Main Break,Main Strike,PVC,Water Main,PVC,False,2023,11,Nov,306,Thursday,False,True,Fall,47408
+2023-11-02,3205 E 3rd St Bloomington Indiana,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,11,Nov,306,Thursday,False,True,Fall,
+2023-11-02,2010 W Ross Lane,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,11,Nov,306,Thursday,False,True,Fall,
+2023-11-09,"3930 S Baytree Ln, Bloomington, Indiana",Main Break,Main Strike,Ductile Iron,Water Main,Ductile Iron,False,2023,11,Nov,313,Thursday,False,True,Fall,
+2023-11-09,"635 NORTH ADAMS ST, BLOOMINGTON, IN, 47404",Service Line Break,Service Line Strike,,Service Line,,,2023,11,Nov,313,Thursday,False,True,Fall,47404
+2023-11-15,"1340 WEST TIFFANY CT, BLOOMINGTON, IN, 47403",Service Line Break,Service Line Leak,,Service Line,,,2023,11,Nov,319,Wednesday,False,True,Fall,47403
+2023-11-17,"1111 WEST 10TH ST, BLOOMINGTON, IN, 47408",Service Line Break,Service Line Strike,,Service Line,,,2023,11,Nov,321,Friday,False,True,Fall,47408
+2023-11-17,2622 Cascade Dr.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,11,Nov,321,Friday,False,True,Fall,
+2023-11-17,"3962 EAST 10TH ST, BLOOMINGTON, IN, 47408",Service Line Break,Service Line Strike,,Service Line,,,2023,11,Nov,321,Friday,False,True,Fall,47408
+2023-11-27,2103 S Grovesnor Place,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,11,Nov,331,Monday,False,True,Fall,
+2023-12-11,1507 Southdowns,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,12,Dec,345,Monday,False,True,Winter,
+2023-12-13,Intersection 17th & N Jackson st,Main Break,Main Strike,Cast Iron,Water Main,Cast Iron,True,2023,12,Dec,347,Wednesday,False,True,Winter,
+2023-12-13,2205 Fairmont Ct,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,12,Dec,347,Wednesday,False,True,Winter,
+2023-12-16,2200  e maxwell Ln,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,12,Dec,350,Saturday,True,True,Winter,
+2023-12-16,4411 E Sheffield Dr,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,12,Dec,350,Saturday,True,True,Winter,
+2023-12-17,940 S Hawthorn Dr,Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2023,12,Dec,351,Sunday,True,True,Winter,
+2023-12-22,"1514 EAST CLAIRMONT PL, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Leak,,Service Line,,,2023,12,Dec,356,Friday,False,True,Winter,47401
+2023-12-26,"415 WEST JED ST, BLOOMINGTON, IN, 47403",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,12,Dec,360,Tuesday,False,True,Winter,47403
+2023-12-26,3550 Country Club DR,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,12,Dec,360,Tuesday,False,True,Winter,
+2023-12-27,4219 E Sheffield DR.,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2023,12,Dec,361,Wednesday,False,True,Winter,
+2024-01-05,"912 SOUTH WESTHILL CT, BLOOMINGTON, IN, 47403",Main Break,Main Break,PVC,Water Main,PVC,False,2024,1,Jan,5,Friday,False,True,Winter,47403
+2024-01-11,"331 EAST 12TH ST, BLOOMINGTON, IN, 47408",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,1,Jan,11,Thursday,False,True,Winter,47408
+2024-01-15,"418 WEST 8TH ST, BLOOMINGTON, IN, 47404",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,1,Jan,15,Monday,False,True,Winter,47404
+2024-01-17,"629 EAST MOODY DR, BLOOMINGTON, IN, 47401",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,1,Jan,17,Wednesday,False,True,Winter,47401
+2024-01-17,"600 NORTH WASHINGTON ST, BLOOMINGTON, IN, 47408",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,1,Jan,17,Wednesday,False,True,Winter,47408
+2024-01-18,"1510 SOUTH PICKWICK PL, BLOOMINGTON, IN, 47401",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,1,Jan,18,Thursday,False,True,Winter,47401
+2024-01-19,"3624 EAST MORNINGSIDE DR, BLOOMINGTON, IN, 47408",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,1,Jan,19,Friday,False,True,Winter,47408
+2024-01-19,"3901 EAST 3RD ST, BLOOMINGTON, IN, 47401",Main Break,Main Break,,Water Main,,,2024,1,Jan,19,Friday,False,True,Winter,47401
+2024-01-19,"459 NORTH MAPLE ST, BLOOMINGTON, IN, 47404",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2024,1,Jan,19,Friday,False,True,Winter,47404
+2024-01-20,"128 SOUTH CLARK ST, BLOOMINGTON, IN, 47408",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2024,1,Jan,20,Saturday,True,True,Winter,47408
+2024-01-20,"3505 EAST GRANDVIEW DR, BLOOMINGTON, IN, 47408",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,1,Jan,20,Saturday,True,True,Winter,47408
+2024-01-21,"1700 NORTH WASHINGTON ST, BLOOMINGTON, IN, 47408",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,1,Jan,21,Sunday,True,True,Winter,47408
+2024-01-22,"1705 NORTH KINSER PIKE, BLOOMINGTON, IN, 47404",Main Break,Main Strike,Cast Iron,Water Main,Cast Iron,True,2024,1,Jan,22,Monday,False,True,Winter,47404
+2024-01-23,"914 SOUTH MAXWELL TER, BLOOMINGTON, IN, 47401",Main Break,Main Break,,Water Main,,,2024,1,Jan,23,Tuesday,False,True,Winter,47401
+2024-01-23,"920 NORTH PLYMOUTH CT, BLOOMINGTON, IN, 47408",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2024,1,Jan,23,Tuesday,False,True,Winter,47408
+2024-01-24,"404 NORTH HOPEWELL ST, BLOOMINGTON, IN, 47404",Main Break,Main Break,,Water Main,,,2024,1,Jan,24,Wednesday,False,True,Winter,47404
+2024-01-29,"611 EAST 1ST ST, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Leak,,Service Line,,,2024,1,Jan,29,Monday,False,True,Winter,47401
+2024-01-30,"1700 WEST BLOOMFIELD RD, BLOOMINGTON, IN, 47403",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,1,Jan,30,Tuesday,False,True,Winter,47403
+2024-02-04,"701 SOUTH HIGHLAND AVE, BLOOMINGTON, IN, 47401",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2024,2,Feb,35,Sunday,True,True,Winter,47401
+2024-02-04,"2350 WEST EVERGREEN DR, BLOOMINGTON, IN, 47404",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,2,Feb,35,Sunday,True,True,Winter,47404
+2024-02-04,"2350 WEST EVERGREEN DR, BLOOMINGTON, IN, 47404",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,2,Feb,35,Sunday,True,True,Winter,47404
+2024-02-10,"3321 NORTH STONEYCREST RD, BLOOMINGTON, IN, 47404",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,2,Feb,41,Saturday,True,True,Winter,47404
+2024-02-11,"1001 WEST WINDING WAY, BLOOMINGTON, IN, 47404",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,2,Feb,42,Sunday,True,True,Winter,47404
+2024-02-15,"1912 NORTH MONROE ST, BLOOMINGTON, IN, 47404",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2024,2,Feb,46,Thursday,False,True,Winter,47404
+2024-02-19,"714 SOUTH ROGERS ST, BLOOMINGTON, IN, 47403",Service Line Break,Service Line Leak,,Service Line,,,2024,2,Feb,50,Monday,False,True,Winter,47403
+2024-02-20,"1051 EAST JENNIFER DR, BLOOMINGTON, IN, 47401",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2024,2,Feb,51,Tuesday,False,True,Winter,47401
+2024-02-25,"1002 EAST SHERBROOKE DR, BLOOMINGTON, IN, 47401",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2024,2,Feb,56,Sunday,True,True,Winter,47401
+2024-02-26,"1807 WEST GRAY ST, BLOOMINGTON, IN, 47404",Service Line Break,Service Line Strike,,Service Line,,,2024,2,Feb,57,Monday,False,True,Winter,47404
+2024-02-27,"2621 NORTH KINSER PIKE, BLOOMINGTON, IN, 47404",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,2,Feb,58,Tuesday,False,True,Winter,47404
+2024-03-01,"5090 EAST HERITAGE WOODS RD, BLOOMINGTON, IN, 47401",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,3,Mar,61,Friday,False,True,Spring,47401
+2024-03-04,"1028 EAST JENNIFER CT, BLOOMINGTON, IN, 47401",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2024,3,Mar,64,Monday,False,True,Spring,47401
+2024-03-07,"4404 WEST STATE ROAD 45, BLOOMINGTON, IN, 47403",Main Break,Main Break,,Water Main,,,2024,3,Mar,67,Thursday,False,True,Spring,47403
+2024-03-19,"317 WEST 17TH ST, BLOOMINGTON, IN, 47404",Main Break,Main Strike,Cast Iron,Water Main,Cast Iron,True,2024,3,Mar,79,Tuesday,False,True,Spring,47404
+2024-03-21,Griffey Water Plant/N Dunn Rd,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,3,Mar,81,Thursday,False,True,Spring,
+2024-03-22,"1020 SOUTH WOODLAWN AVE, BLOOMINGTON, IN, 47401",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,3,Mar,82,Friday,False,True,Spring,47401
+2024-03-23,"4336 EAST SUNDANCE LN, BLOOMINGTON, IN, 47401",Main Break,Service Line Leak,,Water Main,,,2024,3,Mar,83,Saturday,True,True,Spring,47401
+2024-04-03,"4002 SOUTH ROGERS ST, BLOOMINGTON, IN, 47403",Service Line Break,Service Line Strike,,Service Line,,,2024,4,Apr,94,Wednesday,False,False,Spring,47403
+2024-04-08,"117 NORTH PARK RIDGE RD, BLOOMINGTON, IN, 47408",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,4,Apr,99,Monday,False,False,Spring,47408
+2024-04-12,3246 Coppertree,Service Line Break,Service Line Strike,,Service Line,,,2024,4,Apr,103,Friday,False,False,Spring,
+2024-04-24,"409 W 15TH ST, BLOOMINGTON, IN, 47404",Service Line Break,Service Line Strike,,Service Line,,,2024,4,Apr,115,Wednesday,False,False,Spring,47404
+2024-04-27,"1803 Fountain Drive Bloomington, In",Service Line Break,Service Line Strike,,Service Line,,,2024,4,Apr,118,Saturday,True,False,Spring,
+2024-04-29,1700 w Bloomfield rd,Service Line Break,Service Line Leak,,Service Line,,,2024,4,Apr,120,Monday,False,False,Spring,
+2024-04-30,1013 w 14th street Bloomington Indiana,Main Break,Main Strike,Cast Iron,Water Main,Cast Iron,True,2024,4,Apr,121,Tuesday,False,False,Spring,
+2024-05-02,809 w 1st st,Service Line Break,Service Line Leak,,Service Line,,,2024,5,May,123,Thursday,False,False,Spring,
+2024-05-02,"3910 WEST WALNUT LEAF DR, BLOOMINGTON, IN, 47403",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,5,May,123,Thursday,False,False,Spring,47403
+2024-05-06,219 E 19th St,Service Line Break,Service Line Strike,,Service Line,,,2024,5,May,127,Monday,False,False,Spring,
+2024-05-06,1267 Stella DR,Service Line Break,Service Line Strike,,Service Line,,,2024,5,May,127,Monday,False,False,Spring,
+2024-05-08,408 W 1st,Service Line Break,Service Line Strike,,Service Line,,,2024,5,May,129,Wednesday,False,False,Spring,
+2024-05-20,3730 oak leaf,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,5,May,141,Monday,False,False,Spring,
+2024-06-05,"809 WEST 7TH ST, BLOOMINGTON, IN, 47404",Service Line Break,Service Line Strike,,Service Line,,,2024,6,Jun,157,Wednesday,False,False,Summer,47404
+2024-06-08,"613 W GRAHAM DR, BLOOMINGTON, IN, 47403",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2024,6,Jun,160,Saturday,True,False,Summer,47403
+2024-06-10,"3906 SOUTH WOODS EDGE BND, BLOOMINGTON, IN, 47401",Main Break,Main Break,,Water Main,,,2024,6,Jun,162,Monday,False,False,Summer,47401
+2024-06-13,"920 Maple street. Bloomington,in 47408",Service Line Break,Service Line Strike,,Service Line,,,2024,6,Jun,165,Thursday,False,False,Summer,47408
+2024-06-14,"710 SOUTH PARKWAY DR, BLOOMINGTON, IN, 47403",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,6,Jun,166,Friday,False,False,Summer,47403
+2024-06-14,"1425 N DUNN ST, BLOOMINGTON, IN, 47408",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2024,6,Jun,166,Friday,False,False,Summer,47408
+2024-06-15,"3906 SOUTH WOODS EDGE BND, BLOOMINGTON, IN, 47401",Main Break,Main Break,,Water Main,,,2024,6,Jun,167,Saturday,True,False,Summer,47401
+2024-06-17,"209 S UNION ST, BLOOMINGTON, IN, 47408",Main Break,Main Break,,Water Main,,,2024,6,Jun,169,Monday,False,False,Summer,47408
+2024-06-18,"3225 NORTH PROW RD, BLOOMINGTON, IN, 47404",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,6,Jun,170,Tuesday,False,False,Summer,47404
+2024-06-20,"700 SOUTH COLLEGE AVE, BLOOMINGTON, IN, 47403",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,6,Jun,172,Thursday,False,False,Summer,47403
+2024-06-20,"1702 EAST THORNTON DR, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Strike,,Service Line,,,2024,6,Jun,172,Thursday,False,False,Summer,47401
+2024-06-21,"258 NORTH WILLIS DR, BLOOMINGTON, IN, 47404",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,6,Jun,173,Friday,False,False,Summer,47404
+2024-06-21,"100 NORTH STATE ROAD 46, BLOOMINGTON, IN, 47408",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2024,6,Jun,173,Friday,False,False,Summer,47408
+2024-06-21,1st and Morton St,Service Line Break,Service Line Strike,,Service Line,,,2024,6,Jun,173,Friday,False,False,Summer,
+2024-06-23,"1415 S NANCY ST, BLOOMINGTON, IN, 47401",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2024,6,Jun,175,Sunday,True,False,Summer,47401
+2024-06-24,"2500 NORTH KINSER PIKE, BLOOMINGTON, IN, 47404",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2024,6,Jun,176,Monday,False,False,Summer,47404
+2024-06-25,"704 WEST 3RD ST, BLOOMINGTON, IN, 47404",Service Line Break,Service Line Strike,,Service Line,,,2024,6,Jun,177,Tuesday,False,False,Summer,47404
+2024-06-26,"4336 EAST SUNDANCE LN, BLOOMINGTON, IN, 47401",Main Break,Main Break,,Water Main,,,2024,6,Jun,178,Wednesday,False,False,Summer,47401
+2024-06-26,"524 SOUTH HIGHLAND AVE, BLOOMINGTON, IN, 47401",Main Break,Main Break,,Water Main,,,2024,6,Jun,178,Wednesday,False,False,Summer,47401
+2024-06-26,"3711 S HAYS DR, BLOOMINGTON, IN, 47403",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2024,6,Jun,178,Wednesday,False,False,Summer,47403
+2024-06-28,"311 W 7th St, Bloomington, Indiana",Service Line Break,Service Line Leak,,Service Line,,,2024,6,Jun,180,Friday,False,False,Summer,
+2024-07-03,Old st rd 37,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,7,Jul,185,Wednesday,False,False,Summer,
+2024-07-08,"622 W 6th St, Bloomington, Indiana",Service Line Break,Service Line Strike,,Service Line,,,2024,7,Jul,190,Monday,False,False,Summer,
+2024-07-09,1st & Morton,Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,7,Jul,191,Tuesday,False,False,Summer,
+2024-07-10,"1412 SOUTH WINFIELD RD, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Strike,,Service Line,,,2024,7,Jul,192,Wednesday,False,False,Summer,47401
+2024-07-10,"1206 SOUTH WOODLAWN AVE, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Strike,,Service Line,,,2024,7,Jul,192,Wednesday,False,False,Summer,47401
+2024-07-11,"311 SOUTH SWAIN AVE, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Strike,,Service Line,,,2024,7,Jul,193,Thursday,False,False,Summer,47401
+2024-07-11,229  W First ST,Service Line Break,Service Line Leak,,Service Line,,,2024,7,Jul,193,Thursday,False,False,Summer,
+2024-07-11,"606 S COLLEGE AVE, BLOOMINGTON, IN, 47403",Service Line Break,Service Line Leak,,Service Line,,,2024,7,Jul,193,Thursday,False,False,Summer,47403
+2024-07-12,Atwater & swain,Service Line Break,Service Line Strike,,Service Line,,,2024,7,Jul,194,Friday,False,False,Summer,
+2024-07-12,421 west first street,Service Line Break,Service Line Strike,,Service Line,,,2024,7,Jul,194,Friday,False,False,Summer,
+2024-07-22,"1151 EAST 17TH ST, BLOOMINGTON, IN, 47408",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,7,Jul,204,Monday,False,False,Summer,47408
+2024-07-22,1419 Nancy,Main Break,Main Strike,Ductile Iron,Water Main,Ductile Iron,False,2024,7,Jul,204,Monday,False,False,Summer,
+2024-07-23,"1104 SOUTH MADISON ST, BLOOMINGTON, IN, 47403",Main Break,Main Strike,PVC,Water Main,PVC,False,2024,7,Jul,205,Tuesday,False,False,Summer,47403
+2024-07-23,"1529 WEST 8TH ST, BLOOMINGTON, IN, 47404",Service Line Break,Service Line Strike,,Service Line,,,2024,7,Jul,205,Tuesday,False,False,Summer,47404
+2024-07-23,"1419 SOUTH NANCY ST, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Strike,,Service Line,,,2024,7,Jul,205,Tuesday,False,False,Summer,47401
+2024-07-24,"527 EAST SMITH AVE, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Leak,,Service Line,,,2024,7,Jul,206,Wednesday,False,False,Summer,47401
+2024-07-24,"1124 E 17th St, Bloomington, Indiana",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,7,Jul,206,Wednesday,False,False,Summer,
+2024-07-25,"1219 SOUTH FESS AVE, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Strike,,Service Line,,,2024,7,Jul,207,Thursday,False,False,Summer,47401
+2024-07-26,Jalen court,Service Line Break,Service Line Leak,,Service Line,,,2024,7,Jul,208,Friday,False,False,Summer,
+2024-08-01,2305 n walnut st,Service Line Break,Service Line Leak,,Service Line,,,2024,8,Aug,214,Thursday,False,False,Summer,
+2024-08-01,"1425 EAST HUNTER AVE, BLOOMINGTON, IN, 47401",Main Break,Main Break,,Water Main,,,2024,8,Aug,214,Thursday,False,False,Summer,47401
+2024-08-06,"NORTH CRESCENT RD, BLOOMINGTON, IN, 47404",Main Break,Service Line Strike,,Water Main,,,2024,8,Aug,219,Tuesday,False,False,Summer,47404
+2024-08-07,"2104 EAST ROCK CREEK DR, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Leak,,Service Line,,,2024,8,Aug,220,Wednesday,False,False,Summer,47401
+2024-08-12,"305 EAST 11TH ST, BLOOMINGTON, IN, 47408",Service Line Break,Service Line Strike,Copper,Service Line,Copper,False,2024,8,Aug,225,Monday,False,False,Summer,47408
+2024-08-13,"2711 NORTH KINSER PIKE, BLOOMINGTON, IN, 47404",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,8,Aug,226,Tuesday,False,False,Summer,47404
+2024-08-14,"1406 WEST WESTWIND CT, BLOOMINGTON, IN, 47403",Service Line Break,Service Line Leak,,Service Line,,,2024,8,Aug,227,Wednesday,False,False,Summer,47403
+2024-08-15,"411 WEST 1ST ST, BLOOMINGTON, IN, 47403",Service Line Break,Service Line Leak,,Service Line,,,2024,8,Aug,228,Thursday,False,False,Summer,47403
+2024-08-15,"1409 SOUTH PALMER AVE, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Strike,,Service Line,,,2024,8,Aug,228,Thursday,False,False,Summer,47401
+2024-08-16,"3852 SOUTH BAINBRIDGE DR, BLOOMINGTON, IN, 47401",Main Break,Main Break,,Water Main,,,2024,8,Aug,229,Friday,False,False,Summer,47401
+2024-08-18,414 w 6th st,Service Line Break,Service Line Strike,,Service Line,,,2024,8,Aug,231,Sunday,True,False,Summer,
+2024-08-19,"3710 EAST EXETER LN, BLOOMINGTON, IN, 47408",Service Line Break,Service Line Leak,,Service Line,,,2024,8,Aug,232,Monday,False,False,Summer,47408
+2024-08-19,"2110 W FOUNTAIN DR, BLOOMINGTON, IN, 47404",Service Line Break,Service Line Strike,,Service Line,,,2024,8,Aug,232,Monday,False,False,Summer,47404
+2024-08-20,W crescent rd and Fountain DR,Service Line Break,Service Line Strike,,Service Line,,,2024,8,Aug,233,Tuesday,False,False,Summer,
+2024-08-22,"714 SOUTH ROGERS ST, BLOOMINGTON, IN, 47403",Main Break,Main Break,,Water Main,,,2024,8,Aug,235,Thursday,False,False,Summer,47403
+2024-08-27,"921 EAST HILLSIDE DR, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Strike,Unknown,Service Line,,,2024,8,Aug,240,Tuesday,False,False,Summer,47401
+2024-09-03,"108 E SOUTHERN DR, BLOOMINGTON, IN, 47401",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2024,9,Sep,247,Tuesday,False,False,Fall,47401
+2024-09-04,"7470 S SHIELDS RIDGE RD, BLOOMINGTON, IN, 47401",Main Break,Main Break,,Water Main,,,2024,9,Sep,248,Wednesday,False,False,Fall,47401
+2024-09-04,"712 W COOLIDGE DR, BLOOMINGTON, IN, 47403",Main Break,Service Line Strike,,Water Main,,,2024,9,Sep,248,Wednesday,False,False,Fall,47403
+2024-09-09,"517 S ROGERS ST, BLOOMINGTON, IN, 47403",Service Line Break,Service Line Leak,Copper,Service Line,Copper,False,2024,9,Sep,253,Monday,False,False,Fall,47403
+2024-09-13,"510 N HAMILTON CT, BLOOMINGTON, IN, 47408",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,9,Sep,257,Friday,False,False,Fall,47408
+2024-09-13,"920 S LARKSPUR LN, BLOOMINGTON, IN, 47403",Service Line Break,Service Line Strike,,Service Line,,,2024,9,Sep,257,Friday,False,False,Fall,47403
+2024-09-16,"3514 E MORNINGSIDE DR, BLOOMINGTON, IN, 47408",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,9,Sep,260,Monday,False,False,Fall,47408
+2024-09-17,"5210 S WHITE PINE DR, BLOOMINGTON, IN, 47403",Service Line Break,Service Line Leak,,Service Line,,,2024,9,Sep,261,Tuesday,False,False,Fall,47403
+2024-09-18,"608 S EAGLESON AVE, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Strike,Copper,Service Line,Copper,False,2024,9,Sep,262,Wednesday,False,False,Fall,47401
+2024-09-20,"810 N BLAIR AVE, BLOOMINGTON, IN, 47404",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2024,9,Sep,264,Friday,False,False,Fall,47404
+2024-09-24,"1530 S STONE DR, BLOOMINGTON, IN, 47403",Main Break,Main Break,,Water Main,,,2024,9,Sep,268,Tuesday,False,False,Fall,47403
+2024-09-24,"809 S MADISON ST, BLOOMINGTON, IN, 47403",Main Break,Main Strike,PVC,Water Main,PVC,False,2024,9,Sep,268,Tuesday,False,False,Fall,47403
+2024-09-26,"2620 W COTA DR, BLOOMINGTON, IN, 47403",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2024,9,Sep,270,Thursday,False,False,Fall,47403
+2024-10-03,"612 W CHEROKEE DR, BLOOMINGTON, IN, 47403",Service Line Break,Service Line Strike,Unknown,Service Line,,,2024,10,Oct,277,Thursday,False,False,Fall,47403
+2024-10-04,"1208 E 1ST ST, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Leak,,Service Line,,,2024,10,Oct,278,Friday,False,False,Fall,47401
+2024-10-16,"402 N ROGERS ST, BLOOMINGTON, IN, 47404",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,10,Oct,290,Wednesday,False,False,Fall,47404
+2024-10-17,"235 E Winslow Rd, Bloomington, IN, 47401",Service Line Break,Service Line Strike,Unknown,Service Line,,,2024,10,Oct,291,Thursday,False,False,Fall,47401
+2024-10-17,"3926 S EMILIE CT, BLOOMINGTON, IN, 47401",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2024,10,Oct,291,Thursday,False,False,Fall,47401
+2024-10-21,"703 S Anita St, Bloomington, Indiana, 47401",Service Line Break,Service Line Strike,Copper,Service Line,Copper,False,2024,10,Oct,295,Monday,False,False,Fall,47401
+2024-10-22,"237 N SHEFFIELD DR, BLOOMINGTON, IN, 47408",Main Break,Main Break,,Water Main,,,2024,10,Oct,296,Tuesday,False,False,Fall,47408
+2024-10-22,"818 S STULL AVE, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Leak,Copper,Service Line,Copper,False,2024,10,Oct,296,Tuesday,False,False,Fall,47401
+2024-10-23,"603 S EAGLESON AVE, BLOOMINGTON, IN, 47401",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,10,Oct,297,Wednesday,False,False,Fall,47401
+2024-10-28,"4426 E CAMBRIDGE CT, BLOOMINGTON, IN, 47408",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,10,Oct,302,Monday,False,False,Fall,47408
+2024-10-28,"219 N LINCOLN ST, BLOOMINGTON, IN, 47408",Service Line Break,Service Line Strike,Copper,Service Line,Copper,False,2024,10,Oct,302,Monday,False,False,Fall,47408
+2024-10-28,"1531 S DORCHESTER DR, BLOOMINGTON, IN, 47401",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2024,10,Oct,302,Monday,False,False,Fall,47401
+2024-10-30,"308 N LINCOLN ST, BLOOMINGTON, IN, 47408",Service Line Break,Service Line Strike,Copper,Service Line,Copper,False,2024,10,Oct,304,Wednesday,False,False,Fall,47408
+2024-11-04,"3603 S HAYS DR, BLOOMINGTON, IN, 47403",Main Break,Main Break,,Water Main,,,2024,11,Nov,309,Monday,False,True,Fall,47403
+2024-11-06,"816 S FESS AVE, BLOOMINGTON, IN, 47401",Main Break,Main Break,,Water Main,,,2024,11,Nov,311,Wednesday,False,True,Fall,47401
+2024-11-18,"3309 S GLEN ARBOR PL, BLOOMINGTON, IN, 47403",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2024,11,Nov,323,Monday,False,True,Fall,47403
+2024-11-19,"723 W 1ST ST, BLOOMINGTON, IN, 47403",Main Break,Main Strike,,Water Main,,,2024,11,Nov,324,Tuesday,False,True,Fall,47403
+2024-11-20,"727 W 1ST ST, BLOOMINGTON, IN, 47403",Main Break,Main Break,,Water Main,,,2024,11,Nov,325,Wednesday,False,True,Fall,47403
+2024-11-23,"6575 N SHOWERS RD, BLOOMINGTON, IN, 47408",Main Break,Main Break,,Water Main,,,2024,11,Nov,328,Saturday,True,True,Fall,47408
+2024-11-29,"2206 E 8TH ST, BLOOMINGTON, IN, 47408",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,11,Nov,334,Friday,False,True,Fall,47408
+2024-11-30,"3401 N STONEYCREST RD, BLOOMINGTON, IN, 47404",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,11,Nov,335,Saturday,True,True,Fall,47404
+2024-12-04,"1020 S WOODLAWN AVE, BLOOMINGTON, IN, 47401",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2024,12,Dec,339,Wednesday,False,True,Winter,47401
+2024-12-04,"115 E RIDGEVIEW DR, BLOOMINGTON, IN, 47401",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,12,Dec,339,Wednesday,False,True,Winter,47401
+2024-12-05,"2121 N ANGELINA LN, BLOOMINGTON, IN, 47404",Service Line Break,Main Break,,Service Line,,,2024,12,Dec,340,Thursday,False,True,Winter,47404
+2024-12-06,"2113 S GEORGETOWN RD, BLOOMINGTON, IN, 47401",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,12,Dec,341,Friday,False,True,Winter,47401
+2024-12-06,"2222 E CAPE COD DR, BLOOMINGTON, IN, 47401",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2024,12,Dec,341,Friday,False,True,Winter,47401
+2024-12-07,"3013 S STRATFORD DR, BLOOMINGTON, IN, 47401",Main Break,Main Break,,Water Main,,,2024,12,Dec,342,Saturday,True,True,Winter,47401
+2024-12-09,"611 W CLOVER TER, BLOOMINGTON, IN, 47404",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,12,Dec,344,Monday,False,True,Winter,47404
+2024-12-12,"S CHRISTOPHER DR & E BROWNRIDGE RD, PERRY, IN, 47401",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2024,12,Dec,347,Thursday,False,True,Winter,47401
+2024-12-13,"610 S HENDERSON ST, BLOOMINGTON, IN, 47401",Service Line Break,Service Line Strike,Copper,Service Line,Copper,False,2024,12,Dec,348,Friday,False,True,Winter,47401
+2024-12-23,"919 W 8TH ST, BLOOMINGTON, IN, 47404",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2024,12,Dec,358,Monday,False,True,Winter,47404
+2025-01-07,"1318 S HENDERSON ST, BLOOMINGTON, IN, 47401",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2025,1,Jan,7,Tuesday,False,True,Winter,47401
+2025-01-08,"118 S GLENWOOD AVE W, BLOOMINGTON, IN, 47408",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2025,1,Jan,8,Wednesday,False,True,Winter,47408
+2025-01-09,"2525 E ROCK CREEK DR, BLOOMINGTON, IN, 47401",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2025,1,Jan,9,Thursday,False,True,Winter,47401
+2025-01-13,"611 S CLIFTON AVE, BLOOMINGTON, IN, 47401",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2025,1,Jan,13,Monday,False,True,Winter,47401
+2025-01-13,"110 E 19TH ST, BLOOMINGTON, IN, 47408",Main Break,Main Break,,Water Main,,,2025,1,Jan,13,Monday,False,True,Winter,47408
+2025-01-13,"813 E UNIVERSITY ST, BLOOMINGTON, IN, 47401",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2025,1,Jan,13,Monday,False,True,Winter,47401
+2025-01-16,"W BELLE AVE & S HICKORY DR, VAN BUREN, IN, 47403",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2025,1,Jan,16,Thursday,False,True,Winter,47403
+2025-01-17,"417 S WESTERN DR, BLOOMINGTON, IN, 47403",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2025,1,Jan,17,Friday,False,True,Winter,47403
+2025-01-19,"1301 N WALNUT ST, BLOOMINGTON, IN, 47404",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2025,1,Jan,19,Sunday,True,True,Winter,47404
+2025-01-22,"798 E MOODY DR, PERRY, IN, 47401",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2025,1,Jan,22,Wednesday,False,True,Winter,47401
+2025-01-23,"1309 S ROGERS ST, BLOOMINGTON, IN, 47403",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2025,1,Jan,23,Thursday,False,True,Winter,47403
+2025-01-24,"1700 W BLOOMFIELD RD, BLOOMINGTON, IN, 47403",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2025,1,Jan,24,Friday,False,True,Winter,47403
+2025-01-31,"622 N MONROE ST, BLOOMINGTON, IN, 47404",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2025,1,Jan,31,Friday,False,True,Winter,47404
+2025-02-02,"1220 E THORNTON DR, BLOOMINGTON, IN, 47401",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2025,2,Feb,33,Sunday,True,True,Winter,47401
+2025-02-03,"100 W DILLMAN RD, BLOOMINGTON, IN, 47403",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2025,2,Feb,34,Monday,False,True,Winter,47403
+2025-02-04,"4325 E Weymouth LN, Bloomington, IN, 47408",Service Line Break,Service Line Leak,Copper,Service Line,Copper,False,2025,2,Feb,35,Tuesday,False,True,Winter,47408
+2025-02-04,"2700 E 3rd ST, Bloomington, 47401",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2025,2,Feb,35,Tuesday,False,True,Winter,47401
+2025-02-05,"3722 W Oak Leaf DR, Bloomington, IN, 47403",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2025,2,Feb,36,Wednesday,False,True,Winter,47403
+2025-02-05,"W Daffodil CT, 47403",Service Line Break,Service Line Leak,,Service Line,,,2025,2,Feb,36,Wednesday,False,True,Winter,47403
+2025-02-16,"4146 W Belle AVE, Bloomington, IN, 47403",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2025,2,Feb,47,Sunday,True,True,Winter,47403
+2025-02-16,"3738 S Sims LN, Bloomington, IN, 47403",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2025,2,Feb,47,Sunday,True,True,Winter,47403
+2025-02-17,"181 E Ellis RD, Bloomington, IN, 47408",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2025,2,Feb,48,Monday,False,True,Winter,47408
+2025-02-21,"928 S Ballantine RD, Bloomington, IN, 47401",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2025,2,Feb,52,Friday,False,True,Winter,47401
+2025-02-24,"120 S Franklin RD, Bloomington, 47404",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2025,2,Feb,55,Monday,False,True,Winter,47404
+2025-02-25,"616 S Eagleson AVE, Bloomington, IN, 47401",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2025,2,Feb,56,Tuesday,False,True,Winter,47401
+2025-02-26,"216 S Rockwood Crescent CT, Bloomington, IN, 47403",Main Break,Main Break,,Water Main,,,2025,2,Feb,57,Wednesday,False,True,Winter,47403
+2025-03-04,"E 10th ST & N Fee LN, Bloomington, 47406",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2025,3,Mar,63,Tuesday,False,True,Spring,47406
+2025-03-17,"3401 N Stoneycrest RD, Bloomington, IN, 47404",Main Break,Main Break,,Water Main,,,2025,3,Mar,76,Monday,False,True,Spring,47404
+2025-03-17,"644 E Moody DR, Bloomington, IN, 47401",Service Line Break,Service Line Strike,,Service Line,,,2025,3,Mar,76,Monday,False,True,Spring,47401
+2025-03-18,"613 E Moody DR, Bloomington, IN, 47401",Service Line Break,Service Line Strike,,Service Line,,,2025,3,Mar,77,Tuesday,False,True,Spring,47401
+2025-03-20,"2580 S Delila Star DR, Bloomington, IN, 47403",Service Line Break,Service Line Leak,,Service Line,,,2025,3,Mar,79,Thursday,False,True,Spring,47403
+2025-03-27,"613 W Whitethorn WAY, Bloomington, IN, 47403",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2025,3,Mar,86,Thursday,False,True,Spring,47403
+2025-03-27,"N Stone Branch DR, 47404",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2025,3,Mar,86,Thursday,False,True,Spring,47404
+2025-04-01,"1800 N Kinser PIKE, Bloomington, IN, 47404",Main Break,Main Break,,Water Main,,,2025,4,Apr,91,Tuesday,False,False,Spring,47404
+2025-04-03,"4199 S Walnut Street PIKE, Bloomington, IN, 47401",Service Line Break,Service Line Strike,Copper,Service Line,Copper,False,2025,4,Apr,93,Thursday,False,False,Spring,47401
+2025-04-08,"2721 S Jalen CT, Bloomington, IN, 47403",Service Line Break,Service Line Leak,,Service Line,,,2025,4,Apr,98,Tuesday,False,False,Spring,47403
+2025-04-14,"2906 E Buick Cadillac BLVD, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2025,4,Apr,104,Monday,False,False,Spring,47401
+2025-04-14,"1404 S Sare RD, Bloomington, IN, 47401",Main Break,Main Break,Cast Iron,Water Main,Cast Iron,True,2025,4,Apr,104,Monday,False,False,Spring,47401
+2025-04-16,"4411 E Clayton CT, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2025,4,Apr,106,Wednesday,False,False,Spring,47401
+2025-04-21,"3805 E Tamarron DR, Bloomington, IN, 47408",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2025,4,Apr,111,Monday,False,False,Spring,47408
+2025-04-22,"254 S Indiana AVE, Bloomington, 47408",Main Break,Main Strike,Cast Iron,Water Main,Cast Iron,True,2025,4,Apr,112,Tuesday,False,False,Spring,47408
+2025-04-25,"111 W Hillside DR, Bloomington, IN, 47403",Main Break,Main Break,Ductile Iron,Water Main,Ductile Iron,False,2025,4,Apr,115,Friday,False,False,Spring,47403
+2025-04-29,"811 W 2nd ST, Bloomington, IN, 47403",Main Break,Main Strike,Ductile Iron,Water Main,Ductile Iron,False,2025,4,Apr,119,Tuesday,False,False,Spring,47403
+2025-05-05,"1080 S Sugar Maple PL, Bloomington, IN, 47403",Service Line Break,Service Line Leak,,Service Line,,,2025,5,May,125,Monday,False,False,Spring,47403
+2025-05-22,"3407 E Olcott BLVD,  Bloomington,  IN,  47401",Main Break,Main Break,,Water Main,,,2025,5,May,142,Thursday,False,False,Spring,47401
+2025-05-22,"2693 S Mccartney LN, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2025,5,May,142,Thursday,False,False,Spring,47401
+2025-05-25,"2670 S Mccartney LN, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2025,5,May,145,Sunday,True,False,Spring,47401
+2025-06-20,"3821 N Kinser PIKE, Bloomington, IN, 47404",Main Break,Main Break,,Water Main,,,2025,6,Jun,171,Friday,False,False,Summer,47404
+2025-06-23,"330 N Eagleson AVE, Bloomington, IN, 47405",Main Break,Main Break,,Water Main,,,2025,6,Jun,174,Monday,False,False,Summer,47405
+2025-06-30,"4685 W Woodyard RD, Bloomington, IN, 47404",Main Break,Main Break,,Water Main,,,2025,6,Jun,181,Monday,False,False,Summer,47404
+2025-07-01,"220 E 19th ST, Bloomington, IN, 47408",Main Break,Main Break,,Water Main,,,2025,7,Jul,182,Tuesday,False,False,Summer,47408
+2025-07-01,"1500 S Oakdale DR, Bloomington, 47403",Main Break,Main Break,,Water Main,,,2025,7,Jul,182,Tuesday,False,False,Summer,47403
+2025-07-05,"1705 E Caradon Hl, Bloomington, Indiana",Main Break,Main Break,,Water Main,,,2025,7,Jul,186,Saturday,True,False,Summer,
+2025-07-06,"3724 S Hampshire Ln, Bloomington, Indiana",Service Line Break,Service Line Leak,Copper (Meter Pit ID),Service Line,Copper,False,2025,7,Jul,187,Sunday,True,False,Summer,
+2025-07-07,"E 19th ST & N Lincoln ST, Bloomington, 47408",Main Break,Main Break,,Water Main,,,2025,7,Jul,188,Monday,False,False,Summer,47408
+2025-07-21,"3612 E Mabels WAY, Bloomington, IN, 47408",Main Break,Main Break,,Water Main,,,2025,7,Jul,202,Monday,False,False,Summer,47408
+2025-07-23,"730 S Park AVE, Bloomington, 47401",Main Break,Main Break,,Water Main,,,2025,7,Jul,204,Wednesday,False,False,Summer,47401
+2025-07-26,"E 19th ST & N Lincoln ST, Bloomington, 47408",Main Break,Main Break,,Water Main,,,2025,7,Jul,207,Saturday,True,False,Summer,47408
+2025-07-26,"616 S Eagleson AVE,  Bloomington,  IN,  47401",Main Break,Main Break,,Water Main,,,2025,7,Jul,207,Saturday,True,False,Summer,47401
+2025-07-27,"2510 E Poplar DR,  Bloomington,  IN,  47401",Main Break,Main Break,,Water Main,,,2025,7,Jul,208,Sunday,True,False,Summer,47401
+2025-08-05,"1416 S Palmer AVE, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2025,8,Aug,217,Tuesday,False,False,Summer,47401
+2025-08-07,"1310 N Lincoln ST, Bloomington, IN, 47408",Main Break,Main Break,,Water Main,,,2025,8,Aug,219,Thursday,False,False,Summer,47408
+2025-08-14,"N Martha ST, Bloomington, 47408",Main Break,Main Break,,Water Main,,,2025,8,Aug,226,Thursday,False,False,Summer,47408
+2025-08-15,"3672 E Tamarron DR, Bloomington, IN, 47408",Main Break,Main Break,,Water Main,,,2025,8,Aug,227,Friday,False,False,Summer,47408
+2025-08-15,"4982 E Ridgewood DR, Bloomington, IN",Main Break,Main Strike,,Water Main,,,2025,8,Aug,227,Friday,False,False,Summer,
+2025-08-18,260 n gates dr,Main Break,Main Break,,Water Main,,,2025,8,Aug,230,Monday,False,False,Summer,
+2025-08-20,"3202 S Walnut Street PIKE, Bloomington, 47401",Main Break,Main Strike,,Water Main,,,2025,8,Aug,232,Wednesday,False,False,Summer,47401
+2025-08-21,"315 S Daveland LN, Bloomington, IN, 47401",Main Break,Main Strike,,Water Main,,,2025,8,Aug,233,Thursday,False,False,Summer,47401
+2025-08-26,3609 e 3rd st,Main Break,Main Break,,Water Main,,,2025,8,Aug,238,Tuesday,False,False,Summer,
+2025-08-26,"3711 E Devonshire CT, Bloomington, IN, 47408",Main Break,Main Break,,Water Main,,,2025,8,Aug,238,Tuesday,False,False,Summer,47408
+2025-08-30,"2510 E Poplar Dr, Bloomington, Indiana",Main Break,Main Break,,Water Main,,,2025,8,Aug,242,Saturday,True,False,Summer,
+2025-09-02,2804 n sunny slopes,Main Break,Main Break,,Water Main,,,2025,9,Sep,245,Tuesday,False,False,Fall,
+2025-09-02,"1205 S Collinswood DR, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2025,9,Sep,245,Tuesday,False,False,Fall,47401
+2025-09-02,2305 N Martha ST,Main Break,Main Break,,Water Main,,,2025,9,Sep,245,Tuesday,False,False,Fall,
+2025-09-03,"1300 W Bloomfield RD, Bloomington, 47403",Main Break,Main Break,,Water Main,,,2025,9,Sep,246,Wednesday,False,False,Fall,47403
+2025-09-03,"2305 N Martha ST, Bloomington, IN, 47408",Main Break,Main Break,,Water Main,,,2025,9,Sep,246,Wednesday,False,False,Fall,47408
+2025-09-06,"209 E Hillside DR, Bloomington, 47401",Main Break,Main Break,,Water Main,,,2025,9,Sep,249,Saturday,True,False,Fall,47401
+2025-09-07,"201 N Adams ST,  Bloomington,  IN,  47404",Main Break,Main Break,,Water Main,,,2025,9,Sep,250,Sunday,True,False,Fall,47404
+2025-09-08,"3248 S Southern Oaks DR, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2025,9,Sep,251,Monday,False,False,Fall,47401
+2025-09-08,"W 14th ST & N Monroe ST, Bloomington, 47404",Main Break,Main Break,,Water Main,,,2025,9,Sep,251,Monday,False,False,Fall,47404
+2025-09-11,"1200 E 10th ST, Bloomington, 47406",Main Break,Main Break,,Water Main,,,2025,9,Sep,254,Thursday,False,False,Fall,47406
+2025-09-17,"2871 S Walnut Street PIKE, Bloomington, IN, 47401",Service Line Break,Service Line Leak,Copper,Service Line,Copper,False,2025,9,Sep,260,Wednesday,False,False,Fall,47401
+2025-09-23,"1040 E Thornton DR, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2025,9,Sep,266,Tuesday,False,False,Fall,47401
+2025-10-05,"3805 E Tamarron DR, Bloomington, IN, 47408",Main Break,Main Break,,Water Main,,,2025,10,Oct,278,Sunday,True,False,Fall,47408
+2025-10-08,"709 W Dodds ST, Bloomington, IN, 47403",Main Break,Main Break,,Water Main,,,2025,10,Oct,281,Wednesday,False,False,Fall,47403
+2025-10-09,"3612 E Mabels WAY, Bloomington, IN, 47408",Main Break,Main Break,,Water Main,,,2025,10,Oct,282,Thursday,False,False,Fall,47408
+2025-10-15,"E Tamarron DR, Bloomington, 47408",Main Break,Main Break,Copper (Meter Pit ID),Water Main,Copper,False,2025,10,Oct,288,Wednesday,False,False,Fall,47408
+2025-10-15,"3645 S Rogers ST, Bloomington, IN, 47403",Main Break,Main Break,,Water Main,,,2025,10,Oct,288,Wednesday,False,False,Fall,47403
+2025-10-20,"3670 E Tamarron DR, Bloomington, IN, 47408",Main Break,Main Break,Copper (Meter Pit ID),Water Main,Copper,False,2025,10,Oct,293,Monday,False,False,Fall,47408
+2025-11-05,Bloomfield road and rolling ridge,Main Break,Main Break,,Water Main,,,2025,11,Nov,309,Wednesday,False,True,Fall,
+2025-11-07,"135 E Sunny Slopes DR, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2025,11,Nov,311,Friday,False,True,Fall,47401
+2025-11-13,"168 W 6th ST, Bloomington, 47404",Main Break,Main Break,,Water Main,,,2025,11,Nov,317,Thursday,False,True,Fall,47404
+2025-11-13,"2719 S Pinehurst DR, Bloomington, IN, 47403",Main Break,Main Break,,Water Main,,,2025,11,Nov,317,Thursday,False,True,Fall,47403
+2025-11-13,"709 W Allen ST, Bloomington, IN, 47403",Main Break,Main Break,,Water Main,,,2025,11,Nov,317,Thursday,False,True,Fall,47403
+2025-11-14,"301 E Clover LN, Bloomington, IN, 47408",Main Break,Main Break,,Water Main,,,2025,11,Nov,318,Friday,False,True,Fall,47408
+2025-11-14,"301 E Clover LN, Bloomington, IN, 47408",Main Break,Main Break,,Water Main,,,2025,11,Nov,318,Friday,False,True,Fall,47408
+2025-11-15,"1814 E Wexley RD, Bloomington, 47401",Main Break,Main Break,,Water Main,,,2025,11,Nov,319,Saturday,True,True,Fall,47401
+2025-11-15,"2027 W Cory DR, Bloomington, IN, 47403",Main Break,Main Break,,Water Main,,,2025,11,Nov,319,Saturday,True,True,Fall,47403
+2025-11-16,"809 S Rogers ST, Bloomington, IN, 47403",Main Break,Main Break,,Water Main,,,2025,11,Nov,320,Sunday,True,True,Fall,47403
+2025-11-17,"117 W Pinewood DR, Bloomington, IN, 47403",Main Break,Main Break,,Water Main,,,2025,11,Nov,321,Monday,False,True,Fall,47403
+2025-11-17,"4610 E State Road 45, Bloomington, IN, 47408",Main Break,Main Break,,Water Main,,,2025,11,Nov,321,Monday,False,True,Fall,47408
+2025-11-17,"1001 S Rogers ST, Bloomington, IN, 47403",Main Break,Main Break,,Water Main,,,2025,11,Nov,321,Monday,False,True,Fall,47403
+2025-12-01,"3802 W Woodmere WAY, Bloomington, 47403",Main Break,Main Break,,Water Main,,,2025,12,Dec,335,Monday,False,True,Winter,47403
+2025-12-06,"520 S Walnut ST, Bloomington, IN, 47403",Main Break,Main Break,,Water Main,,,2025,12,Dec,340,Saturday,True,True,Winter,47403
+2025-12-08,"220 E 3rd ST, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2025,12,Dec,342,Monday,False,True,Winter,47401
+2025-12-15,"1215 N Eagleson AVE, Bloomington, IN, 47408",Main Break,Main Break,,Water Main,,,2025,12,Dec,349,Monday,False,True,Winter,47408
+2025-12-16,"727 S Western DR, Bloomington, IN, 47403",Main Break,Main Break,,Water Main,,,2025,12,Dec,350,Tuesday,False,True,Winter,47403
+2025-12-16,"802 S Ransom LN, Bloomington, 47403",Main Break,Main Break,,Water Main,,,2025,12,Dec,350,Tuesday,False,True,Winter,47403
+2025-12-17,"2419 E Covenanter DR, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2025,12,Dec,351,Wednesday,False,True,Winter,47401
+2025-12-18,"1351 S College Mall RD, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2025,12,Dec,352,Thursday,False,True,Winter,47401
+2025-12-22,"1115 S Curry PIKE, Bloomington, 47403",Main Break,Main Break,,Water Main,,,2025,12,Dec,356,Monday,False,True,Winter,47403
+2025-12-24,"514 N Staats DR, Bloomington, IN, 47408",Main Break,Main Break,,Water Main,,,2025,12,Dec,358,Wednesday,False,True,Winter,47408
+2025-12-31,"S Curry PIKE & W Gifford RD, Bloomington, 47403",Main Break,Main Break,,Water Main,,,2025,12,Dec,365,Wednesday,False,True,Winter,47403
+2026-01-04,"312 E Dixie ST, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2026,1,Jan,4,Sunday,True,True,Winter,47401
+2026-01-05,"1030 S Mitchell ST, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2026,1,Jan,5,Monday,False,True,Winter,47401
+2026-01-06,"717 N Maple ST, Bloomington, IN, 47404",Main Break,Main Strike,,Water Main,,,2026,1,Jan,6,Tuesday,False,True,Winter,47404
+2026-01-08,"218 N Clark ST, Bloomington, 47408",Main Break,Main Break,,Water Main,,,2026,1,Jan,8,Thursday,False,True,Winter,47408
+2026-01-21,"3712 E Brownridge RD, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2026,1,Jan,21,Wednesday,False,True,Winter,47401
+2026-01-21,"320 S Pleasant Ridge RD, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2026,1,Jan,21,Wednesday,False,True,Winter,47401
+2026-01-21,"1302 E 2nd ST, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2026,1,Jan,21,Wednesday,False,True,Winter,47401
+2026-01-22,SLincoln st & e university st,Main Break,Main Break,,Water Main,,,2026,1,Jan,22,Thursday,False,True,Winter,
+2026-01-22,"N Willis DR, Bloomington, 47404",Main Break,Main Break,,Water Main,,,2026,1,Jan,22,Thursday,False,True,Winter,47404
+2026-01-23,800 s Roger's,Main Break,Main Break,,Water Main,,,2026,1,Jan,23,Friday,False,True,Winter,
+2026-01-23,Locust Ct,Main Break,Main Break,,Water Main,,,2026,1,Jan,23,Friday,False,True,Winter,
+2026-01-26,"314 N Jefferson ST, Bloomington, IN, 47408",Main Break,Main Break,,Water Main,,,2026,1,Jan,26,Monday,False,True,Winter,47408
+2026-01-26,"413 W Joy ST, Bloomington, 47403",Main Break,Main Break,,Water Main,,,2026,1,Jan,26,Monday,False,True,Winter,47403
+2026-01-27,Walnut & 19th,Main Break,Main Break,,Water Main,,,2026,1,Jan,27,Tuesday,False,True,Winter,
+2026-01-29,2001 E Marilyn Dr,Main Break,Main Break,,Water Main,,,2026,1,Jan,29,Thursday,False,True,Winter,
+2026-01-31,"116 S Meadowbrook DR, Bloomington, IN, 47408",Main Break,Main Break,,Water Main,,,2026,1,Jan,31,Saturday,True,True,Winter,47408
+2026-02-02,"1106 E Berkshire CT, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2026,2,Feb,33,Monday,False,True,Winter,47401
+2026-02-02,"3221 N Kinser PIKE, Bloomington, IN, 47404",Main Break,Main Break,,Water Main,,,2026,2,Feb,33,Monday,False,True,Winter,47404
+2026-02-03,"E Mabels WAY, Bloomington, 47408",Main Break,Main Break,,Water Main,,,2026,2,Feb,34,Tuesday,False,True,Winter,47408
+2026-02-04,"2502 E 8th ST, Bloomington, IN, 47408",Main Break,Main Break,,Water Main,,,2026,2,Feb,35,Wednesday,False,True,Winter,47408
+2026-02-04,"3503 S Dunstan DR, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2026,2,Feb,35,Wednesday,False,True,Winter,47401
+2026-02-15,"420 E 9th ST,  Bloomington,  IN,  47408",Main Break,Main Break,,Water Main,,,2026,2,Feb,46,Sunday,True,True,Winter,47408
+2026-02-16,"E 9th ST & N Prow AVE, Bloomington, 47408",Main Break,Main Break,,Water Main,,,2026,2,Feb,47,Monday,False,True,Winter,47408
+2026-02-20,"S Lincoln ST & E University ST, Bloomington, 47401",Main Break,Main Break,,Water Main,,,2026,2,Feb,51,Friday,False,True,Winter,47401
+2026-02-20,"S Rogers ST & W Wylie ST, Bloomington, 47403",Main Break,Main Break,,Water Main,,,2026,2,Feb,51,Friday,False,True,Winter,47403
+2026-02-21,"2904 N Ramble RD E, Bloomington, 47408",Main Break,Main Break,,Water Main,,,2026,2,Feb,52,Saturday,True,True,Winter,47408
+2026-02-21,"2904 N Ramble RD E, Bloomington, 47408",Main Break,Main Break,,Water Main,,,2026,2,Feb,52,Saturday,True,True,Winter,47408
+2026-02-27,"650 N Meadowlark LN, Bloomington, IN, 47408",Main Break,Main Break,,Water Main,,,2026,2,Feb,58,Friday,False,True,Winter,47408
+2026-03-02,"218 E Sunny Slopes DR, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2026,3,Mar,61,Monday,False,True,Spring,47401
+2026-03-22,"721 E Sherwood Hills DR,  Bloomington,  IN,  47401",Main Break,Main Break,,Water Main,,,2026,3,Mar,81,Sunday,True,True,Spring,47401
+2026-03-27,"W Fairington DR, Bloomington, 47403",Main Break,Main Break,,Water Main,,,2026,3,Mar,86,Friday,False,True,Spring,47403
+2026-04-05,"2455 E Rogers RD,  Bloomington,  IN,  47401",Main Break,Main Break,,Water Main,,,2026,4,Apr,95,Sunday,True,False,Spring,47401
+2026-04-23,"4502 N Northwoods LN, Bloomington, IN, 47404",Main Break,Main Break,,Water Main,,,2026,4,Apr,113,Thursday,False,False,Spring,47404
+2026-04-24,"S Falcon DR & W Eagleview DR, Bloomington, 47403",Main Break,Main Break,,Water Main,,,2026,4,Apr,114,Friday,False,False,Spring,47403
+2026-05-08,"3579 E Saddlebrook LN, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2026,5,May,128,Friday,False,False,Spring,47401
+2026-05-21,"500 S Landmark AVE,  Bloomington,  IN,  47403",Main Break,Main Break,,Water Main,,,2026,5,May,141,Thursday,False,False,Spring,47403
+2026-05-26,600 Landmark Dr.,Main Break,Main Break,,Water Main,,,2026,5,May,146,Tuesday,False,False,Spring,
+2026-06-01,Walnut street and southern dr,Main Break,Main Break,,Water Main,,,2026,6,Jun,152,Monday,False,False,Summer,
+2026-06-05,6th street and Washington st,Main Break,Main Break,,Water Main,,,2026,6,Jun,156,Friday,False,False,Summer,
+2026-06-08,"3015 E Daniel ST, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2026,6,Jun,159,Monday,False,False,Summer,47401
+2026-06-19,"S The Stands DR,  Bloomington,  47401",Main Break,Main Break,,Water Main,,,2026,6,Jun,170,Friday,False,False,Summer,47401
+2026-06-28,"2849 E Buick Cadillac BLVD, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2026,6,Jun,179,Sunday,True,False,Summer,47401
+2026-07-07,"1124 S Graywell DR, Bloomington, IN, 47401",Main Break,Main Break,,Water Main,,,2026,7,Jul,188,Tuesday,False,False,Summer,47401
+2026-07-09,1919 s Wilton dr,Main Break,Main Break,,Water Main,,,2026,7,Jul,190,Thursday,False,False,Summer,
+2026-07-13,17th St and Eagleson Dr.,Main Break,Main Break,,Water Main,,,2026,7,Jul,194,Monday,False,False,Summer,
+2026-07-17,"220 S Jefferson ST,  Bloomington,  IN,  47408",Main Break,Main Break,,Water Main,,,2026,7,Jul,198,Friday,False,False,Summer,47408
+2026-07-18,"1440 N Woodburn AVE, Bloomington, IN, 47404",Main Break,Main Break,,Water Main,,,2026,7,Jul,199,Saturday,True,False,Summer,47404
+2026-08-07,"134 N Clark ST, Bloomington, IN, 47408",Main Break,Main Strike,,Water Main,,,2026,8,Aug,219,Friday,False,False,Summer,47408
